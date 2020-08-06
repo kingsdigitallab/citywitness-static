@@ -1,0 +1,25 @@
+img.witness-legend {
+	margin-right:2px;
+	vertical-align:initial;
+	border-style:solid;
+	border-color:gray;
+	border-width:1px;
+}
+
+.leaflet-control-layers label {
+	font-family: "lato", Sans-Serif !important;
+	font-weight: normal !important;
+}
+
+#map {
+	border-style:solid;
+	border-color:gray;
+	border-width:1px;
+}
+
+.leaflet-control-layers-expanded {
+padding: 6px 10px 6px 6px;
+color: #333; 
+background: transparent !important;
+box-shadow: none !important ;
+}

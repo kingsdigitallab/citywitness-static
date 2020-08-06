@@ -1,0 +1,90 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+
+	line-height: 150%;
+	margin: 0;
+	padding: 0;
+	color: #555;
+}
+
+.navbar {
+	margin-bottom: -10px;
+}
+
+div.editorial-controls {
+	background: #f0f0f0;
+	padding: 0.5% 0;
+}
+
+.editorial-controls a:link, .editorial-controls a:visited {
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 3%;
+	margin-bottom: 2px;
+	background: #3498DB;
+	transition: all 0.2s ease-in;
+}
+
+.editorial-controls a:hover {
+	background: #2980B9;
+}
+
+div.content{
+	padding: 0.5%;
+}
+
+.entry h2 a {
+	color: #fff;
+	background: #2980B9;
+	font-size: 70%;
+	font-weight: normal;
+	padding: 3px 5px;
+	border-radius: 5px;
+	transition: all 0.2s ease-in;
+}
+
+.entry h2 a.edit {
+	background: #2980B9;
+}
+
+.entry h2 a.view {
+	background: #27AE60;
+}
+
+.entry h2 a.delete {
+	background: #C0392B;
+}
+
+.entry h2 a:hover {
+	background: #3498DB;
+}
+
+p.meta {
+	color: #3498DB;
+	display: block;
+	line-height: 150%;
+}
+
+.tab-pane {
+	padding: 1% 0;
+	border: 1px solid #ddd;
+	border-top: none;
+}
+
+label {
+	margin-top: 1%;
+}
+
+.list-group-item {
+	padding: 5px 30px 5px 15px;
+}
+
+p.viewrecord {
+	font-size: 120%;
+	line-height: 175%;
+}
+
+.link-summary {
+	padding: 1% 0;
+}

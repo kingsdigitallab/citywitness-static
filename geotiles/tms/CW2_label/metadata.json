@@ -1,0 +1,11 @@
+{
+    "attribution": "", 
+    "description": "CityWitness2", 
+    "center": "-3.9376,51.6218,15", 
+    "bounds": "-3.9597,51.6145,-3.9254,51.6321", 
+    "minzoom": "15", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "16", 
+    "name": "CityWitness2"
+}

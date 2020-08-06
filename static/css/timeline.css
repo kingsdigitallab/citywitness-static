@@ -1,0 +1,150 @@
+/* Styling the Timeline */
+
+#timeline-container {
+
+}
+
+/*
+div.timeline-item:nth-child(even) {
+	margin: 0 32px 2% 0;
+	float: left;
+}
+
+div.timeline-item:nth-child(odd) {
+	margin: 0 0 2% 32px;
+	float: left;
+}
+*/
+
+/* Have to try and assign this AFTER the arrow Points because ODD /EVEN isn't reliable ... */
+
+.item-left {
+	margin: 0 32px 2% 0;
+	float: left;
+}
+
+.item-right{
+	margin: 0 0 2% 32px;
+	float: left;
+}
+
+/* Hmmmmm */
+.tail-right {
+    width: 0px;
+    height: 0px;
+    border: 10px solid;
+    border-color: transparent transparent transparent #ebebeb;
+    position:absolute;
+    top: 20px;
+    right: -20px;
+}
+
+.tail-left {
+    width: 0px;
+    height: 0px;
+    border: 10px solid;
+    border-color: transparent #ebebeb transparent transparent;
+    position:absolute;
+    top: 20px;
+    left: -20px;
+}
+
+/*********/
+
+.timeline-item {
+	width: 43%;
+	/* float: left !important; */
+	background-color: #EBEBEB;
+	text-align: justify;
+	word-wrap: break-word;
+	line-height: 1.5;
+	position: relative;
+	padding-bottom: 10px;
+	min-height:300px;
+}
+
+.timeline-header {
+	width: 100%;
+}
+
+.timeline-left {
+	width: 38%;
+	float: left;
+	margin: 1%;
+}
+
+
+.timeline-right {
+	width: 58%;
+	float: left;
+	font-size: 0.8em !important;
+	margin: 1%;
+    text-align: left;
+}
+
+.timeline-witness {
+	font-weight: bold;
+	color: #35B3EF;
+}
+
+.timeline-witness-header {
+	font-weight: bold;
+}
+
+.witness-section {
+	margin-bottom: 10px;
+};
+
+.timeline_container {
+	width: 16px;
+	text-align: center;
+	margin: 0 auto;
+	cursor: pointer;
+	display: block;
+}
+
+.timeline {
+	margin: 0 auto;
+	background-color: #35B3EF;
+	display: block;
+	float: left;
+	height: 100%;
+	left: 47.5%;
+	margin-top: 0;
+	position: absolute;
+	width: 7px;
+}
+
+.timeline:hover {
+	cursor: pointer;
+	margin: 0 auto;
+}
+
+.timeline div.plus {
+	width: 14px;
+	height: 14px;
+	position: relative;
+	left: -6px;
+}
+
+.rightCorner, .leftCorner {
+	display: block;
+	height: 25px;
+	width: 33px;
+	position: absolute;
+	z-index: 2;
+}
+
+.rightCorner { 
+	background-image: url("/static/img/left.png");
+	/*margin-left: 98%;*//*408px;*/
+	/*margin-top: 10%;*/
+	padding: 0;
+	vertical-align: top;
+}
+
+.leftCorner {
+	background-image: url("/static/img/right.png");
+	margin-left: -13px;
+	/*margin-top: 10%;*/
+}

@@ -1,0 +1,25 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+
+	line-height: 150%;
+	margin: 0;
+	padding: 0;
+	color: #555;
+}
+
+.selector {
+	width:100%;
+}
+
+.selector-available {
+	width:48%;
+}
+
+.selector-chosen {
+	width:48%;
+}
+
+
+#id_events_from, #id_events_to {
+	width:99%;
+}

@@ -1,0 +1,2280 @@
+var timeline = ({"events": [
+	{"order": "73",
+	 "desc": "William Cragh attacks Oystermouth Castle",
+	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"73",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh attacks Oystermouth Castle",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Oystermoutn Castle"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"attack"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"256",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh kills 13 men",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Oystermouth Castle",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"murder"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "74",
+	 "desc": "William Cragh is captured",
+	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"74",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is captured",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"capture"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"13",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh is captured",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"capture"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"276",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is captured",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Oystermouth Castle",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"capture"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"64",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is captured",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"capture"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"81",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh and Trahaearn are captured",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Oystermouth Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"capture"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "76",
+	 "desc": "William Cragh is incarcerated",
+	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"36",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh is incarcerated",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"The Dungeon",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"imprisonment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"76",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is incarcerated",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"The Dungeon",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"imprisonment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"258",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is incarcerated",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"The Dungeon",
+	 					"event_loc":"The Dungeon",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"imprisonment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "75",
+	 "desc": "William Cragh is sentenced to hanging",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"75",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is sentenced to hanging",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"sentence"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"New Castle",
+	 					"event_types": [{"desc":"social"}],
+	 					"event_subtype":"legal"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"14",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh is sentenced by William de Briouze Snr",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William de Briouze Snr"}],
+	 					"objects":[ { "desc":"William Cragh"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"New Castle",
+	 					"event_loc":"Swansea",
+	 					"event_types": [{"desc":"social"}],
+	 					"event_subtype":"legal"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"130",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is sentenced to hanging",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"sentence"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"New Castle",
+	 					"event_types": [{"desc":"social"}],
+	 					"event_subtype":"legal"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "220",
+	 "desc": "William de Briouze Snr assembles his horsemen",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "204",
+	 "desc": "William Cragh is led to the gallows by horsemen",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"253",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh is led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"Swansea",
+	 					"to":"Gallows",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"204",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is led to the gallows by horsemen",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"New Castle",
+	 					"to":"Gallows",
+	 					"witness_loc":"",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"125",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh and Trahaearn led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"New Castle",
+	 					"to":"Gallows",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"212",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"The Dungeon",
+	 					"to":"Gallows",
+	 					"witness_loc":"",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"214",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"The Dungeon",
+	 					"to":"Gallows",
+	 					"witness_loc":"",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"358",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh and Trahaearn led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"The Dungeon",
+	 					"to":"Gallows",
+	 					"witness_loc":"New Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "230",
+	 "desc": "William Cragh is hanged by his family",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"247",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"356",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"William Cragh is hanged by his family",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Dafydd Asser"} , { "desc":"Gruffudd Foel"} , { "desc":"Uthel Fachen"} , { "desc":"Yry son of Veil"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"241",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"230",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is hanged by his family",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Dafydd Asser"} , { "desc":"Gruffudd Foel"} , { "desc":"Uthel Fachen"} , { "desc":"Yry son of Veil"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"28",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"83",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh is hanged by his family",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Dafydd Asser"} , { "desc":"Gruffudd Foel"} , { "desc":"Uthel Fachen"} , { "desc":"Yry son of Veil"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"123",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"196",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is hanged by Uthel Fachen",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Uthel Fachen"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"198",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"78",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "231",
+	 "desc": "William Cragh vacuates his bowels",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "301",
+	 "desc": "Trahaearn's ransom is turned down",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "232",
+	 "desc": "Trahaearn is hanged",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"249",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"345",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"243",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"232",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"30",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"54",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"77",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "233",
+	 "desc": "The ladder is taken away from Trahaearn",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "237",
+	 "desc": "The beam of the gallows breaks",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"250",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"346",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"244",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"237",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"107",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"gallows"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"51",						
+	 					"slug":"william-cragh",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"156",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"break"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"72",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "298",
+	 "desc": "William Cragh's body falls to the ground",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "296",
+	 "desc": "William Cragh and Trahaearn are re-hanged",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"252",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"348",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"245",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"296",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"108",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"53",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "202",
+	 "desc": "John of Baggeham goes to Swansea Castle",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "221",
+	 "desc": "John of Baggeham informs William de Briouze Jnr and William de Briouze Snr, and Mary de Briouze of William Cragh and Trahaearn's death",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "222",
+	 "desc": "Mary de Briouze begs for William Cragh's body",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "223",
+	 "desc": "William de Briouze Snr concedes to Mary de Briouze's request to release William Cragh's body",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "224",
+	 "desc": "Mary de Briouze asks John of Baggeham to take William Cragh off the gallows",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "297",
+	 "desc": "John of Baggeham cuts the rope used to hang William Cragh",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "300",
+	 "desc": "John of Baggeham orders the body of William Cragh to be taken to the town of Swansea",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "203",
+	 "desc": "John of Baggeham returns to Swansea Castle",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "225",
+	 "desc": "William de Briouze Snr is eating lunch",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "226",
+	 "desc": "Mary de Briouze takes string from her daughter's purse",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "227",
+	 "desc": "Mary de Briouze sends John of Baggeham with string to measure William Cragh",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "234",
+	 "desc": "John of Baggeham goes to Thomas Mathews the burgess's house",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "182",
+	 "desc": "William Cragh lies on the ground",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "278",
+	 "desc": "William Cragh's eyes are popped out of their sockets",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "279",
+	 "desc": "William Cragh's tongue is hanging out",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "280",
+	 "desc": "William Cragh's teeth are clamped shut",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "281",
+	 "desc": "William Cragh is not breathing",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "282",
+	 "desc": "John of Baggeham touches William Cragh's body",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "283",
+	 "desc": "John of Baggeham measures William Cragh",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "284",
+	 "desc": "The people in the house of Thomas Mathews the burgess pray to St Thomas",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "285",
+	 "desc": "The people in the house of Thomas Mathews the burgess say the Pater Noster and Ave Maria",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "286",
+	 "desc": "William Cragh moves a foot",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"286",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh moves a foot",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"feet"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"287",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh breathes in a little",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"290",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh's eyes withdraw into their sockets",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"},{"desc":"eyes"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"291",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh closes his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"292",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh opens his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"61",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resurrection"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"62",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Signs of life appear in William Cragh",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resucitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"27",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is restored to life",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"31",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh moves a leg",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"leg"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"56",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"154",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh's tongue is smaller but sticking out",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"tongue"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"alive"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "287",
+	 "desc": "William Cragh breathes in a little",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"286",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh moves a foot",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"feet"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"287",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh breathes in a little",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"290",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh's eyes withdraw into their sockets",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"},{"desc":"eyes"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"291",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh closes his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"292",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh opens his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"61",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resurrection"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"62",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Signs of life appear in William Cragh",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resucitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"27",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is restored to life",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"31",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh moves a leg",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"leg"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"56",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"154",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh's tongue is smaller but sticking out",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"tongue"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"alive"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "205",
+	 "desc": "John of Baggeham returns to Swansea Castle",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "228",
+	 "desc": "Mary de Briouze rejoices at William Cragh's revival",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "229",
+	 "desc": "John of Baggeham chastises Mary de Briouze",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "235",
+	 "desc": "John of Baggeham and Mary de Briouze and their household go to Thomas Mathews the burgess's house",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "288",
+	 "desc": "Mary de Briouze measures William Cragh",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "289",
+	 "desc": "Margaret de Briouze measures William Cragh",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "290",
+	 "desc": "William Cragh's eyes withdraw into their sockets",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"286",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh moves a foot",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"feet"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"287",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh breathes in a little",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"290",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh's eyes withdraw into their sockets",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"},{"desc":"eyes"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"291",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh closes his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"292",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh opens his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"61",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resurrection"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"62",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Signs of life appear in William Cragh",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resucitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"27",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is restored to life",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"31",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh moves a leg",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"leg"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"56",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"154",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh's tongue is smaller but sticking out",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"tongue"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"alive"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "291",
+	 "desc": "William Cragh closes his eyes",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"286",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh moves a foot",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"feet"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"287",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh breathes in a little",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"290",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh's eyes withdraw into their sockets",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"},{"desc":"eyes"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"291",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh closes his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"292",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh opens his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"61",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resurrection"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"62",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Signs of life appear in William Cragh",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resucitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"27",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is restored to life",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"31",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh moves a leg",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"leg"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"56",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"154",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh's tongue is smaller but sticking out",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"tongue"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"alive"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "292",
+	 "desc": "William Cragh opens his eyes",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"286",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh moves a foot",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"feet"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"287",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh breathes in a little",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"290",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh's eyes withdraw into their sockets",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"},{"desc":"eyes"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"291",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh closes his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"292",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh opens his eyes",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"eyes"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"61",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resurrection"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"62",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Signs of life appear in William Cragh",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resucitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"27",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is restored to life",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"life"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"31",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh moves a leg",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"leg"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"56",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh begins to breathe",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"breath"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"transition"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"154",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh's tongue is smaller but sticking out",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"tongue"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"alive"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "293",
+	 "desc": "William Cragh is not able to recognise people",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "294",
+	 "desc": "William Cragh's condition is improved",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "299",
+	 "desc": "John of Baggeham and Mary de Briouze and their household go to Swansea Castle",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "295",
+	 "desc": "Mary de Briouze prepares almond broth",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"295",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"Mary de Briouze prepares almond broth",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Mary de Briouze"}],
+	 					"objects":[ { "desc":"broth"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"New Castle",
+	 					"event_loc":"New Castle",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"charity"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"336",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"Mary de Briouze feeds William Cragh broth for several days",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Mary de Briouze"}],
+	 					"objects":[ { "desc":"William Cragh"} , { "desc":"broth"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"charity"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"213",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is weak for a week",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resuscitation"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"5",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh only able to consume broth",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"broth"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"eating"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"35",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh lies weak for weeks",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"New Castle",
+	 					"event_loc":"",
+	 					"event_types": [{"desc":"status"}],
+	 					"event_subtype":"resucitation"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "236",
+	 "desc": "Mary de Briouze and her household go to see William Cragh",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "325",
+	 "desc": "John of Baggeham returns to Swansea Castle",
+	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "15",
+	 "desc": "Mary de Briouze, William de Briouze Snr and William Cragh go to Hereford",
+	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"43",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh is taken to Hereford",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"pilgrimage"} ],
+	 					"from":"Swansea",
+	 					"to":"Hereford Cathedral",
+	 					"witness_loc":"",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"pilgrimage"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"15",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"Mary de Briouze, William de Briouze Snr and William Cragh go to Hereford",
+	 					"pathway":"heard",
+	 					"subjects":[],
+	 					"objects":[ { "desc":"pilgrimage"} ],
+	 					"from":"Swansea",
+	 					"to":"Hereford Cathedral",
+	 					"witness_loc":"Swansea",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"pilrimage"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"341",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"Te Deum sung at Hereford",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"song"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Hereford Cathedral",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"social"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"342",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"Mary de Briouze and William Cragh go to Hereford",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Mary de Briouze"},{"desc":"William Cragh"},{"desc":"William de Briouze Snr"}],
+	 					"objects":[ { "desc":"Hereford"} ],
+	 					"from":"New Castle",
+	 					"to":"Hereford Cathedral",
+	 					"witness_loc":"Hereford Cathedral",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"pilgrimage"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"254",						
+	 					"slug":"william-cragh",							
+	 					"desc":"The miracle is proclaimed in Hereford ",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"miracle"}],
+	 					"objects":[ { "desc":"Hereford"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Hereford Cathedral",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"263",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh, Mary de Briouze and William de Briouze Snr go on pilgrimage to Hereford",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Mary de Briouze"},{"desc":"William Cragh"},{"desc":"William de Briouze Snr"}],
+	 					"objects":[ { "desc":"pilgrimage"} , { "desc":"Hereford"} ],
+	 					"from":"New Castle",
+	 					"to":"Hereford Cathedral",
+	 					"witness_loc":"Hereford Cathedral",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"22",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh carries the string to Hereford",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"string"} ],
+	 					"from":"Swansea",
+	 					"to":"Tomb",
+	 					"witness_loc":"",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"23",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh, Mary de Briouze, and William de Briouze Snr go on pilgrimage to Hereford",
+	 					"pathway":"heard",
+	 					"subjects":[],
+	 					"objects":[ { "desc":"pilgrimage"} ],
+	 					"from":"New Castle",
+	 					"to":"Hereford Cathedral",
+	 					"witness_loc":"Swansea",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"pilgrimage"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"65",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh, Mary de Briouze and William de Briouze Snr go on pilgrimage to Hereford",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Mary de Briouze"},{"desc":"William Cragh"},{"desc":"William de Briouze Snr"}],
+	 					"objects":[ { "desc":"pilgrimage"} ],
+	 					"from":"New Castle",
+	 					"to":"Hereford Cathedral",
+	 					"witness_loc":"New Castle",
+	 					"event_loc":"Hereford Cathedral",
+	 					"event_types": [{"desc":"journey"}],
+	 					"event_subtype":"pilgrimage"
+	 					} 
+	 					
+	 			   ]
+	}
+] });
+
+function getWitnesses(eventObject){
+	var str = "" // <div>";
+	for (w in eventObject.witnesses){
+		// Close last div only if a new witness and not the first iteration
+		if ( currWitness!=eventObject.witnesses[w].name && w!=0 ) { str = str + '</div>' }
+
+		if ( currWitness!=eventObject.witnesses[w].name ){
+		str = str + "<div class='witness-section'><span class='timeline-witness-header'>As "+eventObject.witnesses[w].pathway + ' by </span><span class="timeline-witness"><a href="/witness-timeline/' + eventObject.witnesses[w].slug +'/witness.html#event-'+ eventObject.witnesses[w].id +'">' 
+		+ eventObject.witnesses[w].name + "</a></span></b>"
+				  + "<br />" + eventObject.witnesses[w].desc
+		}
+		else{
+			str = str + "<br />" + eventObject.witnesses[w].desc
+		}
+
+		var currWitness = eventObject.witnesses[w].name;
+
+		// Close last div only if end of loop
+		if ( w==(eventObject.witnesses.length-1) ) { str = str + '</div>' }		
+	};
+
+	//str += "</div>";
+	return str;
+};
+
+function getImageUrl(eventObject){
+	var str = "";
+	if (eventObject.location != 'Not specified'){
+		str = eventObject.location
+	}
+	else {
+		str = '<p>Nothing yet!<p>'
+	}
+	return str;
+}
+
+
+function Arrow_Points()
+{ 
+var s = $('#timeline-container').find('.timeline-item');
+$.each(s,function(i,obj){
+	var o = $(obj).offset()['left']
+	// Check if it is the first iteration and store the left offset...
+			if (i==0){
+				minLeft=$(obj).offset()['left'];
+			};
+		if ( $(obj).offset()['left'] > minLeft  )
+			{
+			html = "<div class='tail-left'></div>";
+			$(obj).prepend(html);
+		
+			}
+		else
+		{
+			html = "<div class='tail-right'></div>";
+			$(obj).prepend(html);
+	
+		}
+	});
+}
+
+
+function AssignMargins(){ 
+var s = $('#timeline-container').find('.timeline-item');
+$.each(s,function(i,obj){
+	var o = $(obj).offset()['left']
+	// Check if it is the first iteration and store the left offset...
+			if (i==0){
+				minLeft=$(obj).offset()['left'];
+			};
+		if ( $(obj).offset()['left'] > (minLeft+100) ) /* || $(obj).offset()['left'] < 
+				$( $('#timeline-container').find('.timeline-item')[1] ).offset()['left'] ) */
+			{
+			  $(obj).addClass('item-right')
+				if ( $(obj).hasClass('item-left')){
+					$(obj).removeClass('item-left')
+				}
+			}
+		else
+		{
+			  $(obj).addClass('item-left')	
+				if ( $(obj).hasClass('item-right') ){
+					$(obj).removeClass('item-right')
+				}			  
+		}
+	});
+}
+ 
+
+
+
+
+
+$(document).ready(function(){
+	// Create a div for each event
+	for (e in timeline.events){
+		$('#timeline-container').append("<div id='timeline-item-"+ e +"' class='timeline-item large-6 columns'>"+ e + "</div>");
+	};
+
+
+	
+	for (e in timeline.events){
+		$($('.timeline-item')[e]).html(
+		"<div class='timeline-content' id='event-"+ timeline.events[e].order +"'>" +
+		"<h4 class='timeline-header'>"+ timeline.events[e].desc +"</h4>"+
+		"<div class='timeline-left'>" + getImageUrl( timeline.events[e] ) +"</div>"+
+		"<div class='timeline-right'>"+ 
+					getWitnesses( timeline.events[e] )
+		+ "</div>" +
+		"</div>"
+		);
+	}
+
+   	$('#timeline-item-0').after("<div class='timeline-item fake' style='height:1px;'> </div>")
+	
+    $($('.timeline-item')[0]).before(
+	'<div class="timeline_container">'+
+		'<div class="timeline">'+
+			'<div class="plus"></div>'+
+		'</div>' +
+	'</div>'
+	);
+	
+	
+	window.setTimeout(masonryLayout, 1000);
+
+});
+
+function masonryLayout(){
+	$('#timeline-container').masonry({itemSelector : '.timeline-item',transitionDuration: 0});
+	
+	AssignMargins();
+	
+	$('#timeline-container').masonry({itemSelector : '.timeline-item',transitionDuration: 0});
+	
+	AssignMargins();
+	
+	Arrow_Points()
+	$('.fake').remove();
+	var fakeHash = 	window.location.hash;
+	window.location.hash = ''
+	window.location.hash = fakeHash;
+};

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title></title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link href='http://fonts.googleapis.com/css?family=Caudex' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/css/main.css">
+
+		<script src="http://www.medievalswansea.ac.uk/en/polling/53bbca2247af4/poll.js"></script>
+		<script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	</head>
+	<body>
+		<!--[if lt IE 7]>
+			<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+
+		<header id="header">
+			<div class="header-container">
+				<h1 id="logo">What did you see?</h1>
+				<h2 id="intro">In 1290 a Welshman, William Cragh, was hanged in Swansea by<br />
+				Lord William de Briouze. But then he seemed to come back to life... <br />
+				Can you gather the evidence and decide what really happened?</h2>
+			</div>
+		</header>
+
+		<main id="main" class="container">
+			<div class="row">
+				<div class="col-xs-12 big-block">
+
+					<div id="graph-holder">
+						<div id="graph-overlay"></div>
+						<canvas id="chart" width="240" height="240"></canvas>
+					</div>
+					
+					<div id="text-container">
+						
+						<h3 id="highest-result">Most people think that Cragh</h3>
+						<p>Key to chart:</p>
+						<ul id="key-answers"></ul>
+
+					</div>
+
+					<a id="play_btn" href="http://www.medievalswansea.ac.uk/static/assets/game/index.html" title="Play the game and cast your vote now!">Play the game and cast your vote now!</a>
+
+				</div>
+			</div>
+
+			<div class="row" id="small-blocks">
+				<div class="col-xs-4">
+					<a target="_parent" href="http://www.medievalswansea.ac.uk/en/the-story/" class="small-block" title="Find out more about the Cragh story">
+						<img class="block-image" src="assets/img/panel_image_01.png" width="80" height="92">
+						<span class="block-text">Find out more about the Cragh story...</span>
+					</a>
+				</div>
+				<div class="col-xs-4">
+					<a target="_parent" href="http://www.medievalswansea.ac.uk/en/mapping/" class="small-block" title="Explore maps of medieval Swansea">
+						<img class="block-image" src="assets/img/panel_image_02.png" width="85" height="92">
+						<span class="block-text">Explore maps of medieval Swansea</span>
+					</a>
+				</div>
+				<div class="col-xs-4">
+					<a target="_parent" href="http://www.medievalswansea.ac.uk/en/" class="small-block" title="Discover medieval Swansea today">
+						<img class="block-image" src="assets/img/panel_image_03.png" width="80" height="92">
+						<span class="block-text">Discover medieval Swansea today</span>
+					</a>
+				</div>
+			</div>
+		</main>
+
+
+
+		<div id="background">
+			<div id="bg-top-strip"></div>
+			<div id="bg-overlay"></div>
+			<div id="bg-corner-left"></div>
+			<div id="bg-corner-right"></div>
+			<div id="bg-btm-bar"></div>
+			<div id="bg-town"></div>
+		</div>
+
+
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/vendor/chart.min.js"></script>
+		<script src="js/min/main-min.js"></script>
+
+	</body>
+</html>

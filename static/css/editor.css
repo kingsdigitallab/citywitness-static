@@ -1,0 +1,260 @@
+/* In-editor styles */
+
+a:link, a:hover, a:visited, a:active {
+	text-decoration: none;
+}
+
+#tinymce {
+	line-height: 200%;
+	font-size: 100%;
+	color: #555;
+}
+
+/* Decorators */
+
+.mce-content-body div.statement, .mce-content-body div.text {
+	display: block;
+	padding: 3px;
+	border: 1px solid #2C3E50;
+	margin: 3px 0;
+}
+
+.mce-content-body div.statement::before {
+	content: "statement [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #2C3E50;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.mce-content-body div.text::before {
+	content: "text [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #2C3E50;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.mce-content-body  p {
+	display: block;
+	padding: 3px;
+	border: 1px solid #BDC3C7;
+	margin: 3px 0;
+}
+
+.mce-content-body p::before {
+	content: "paragraph [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #BDC3C7;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.mce-content-body span.heading {
+	font-weight: bold;
+	display: block;
+	border: 1px solid #34495E;
+	padding: 3px;
+	margin: 3px 0;
+}
+
+.mce-content-body span.heading::before {
+	content: "heading";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #34495E;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+	font-weight: normal;
+}
+
+.mce-content-body span.fw:after {
+	content: "\0192";
+	color: red;
+}
+
+.mce-content-body span.fw {
+	border-bottom: 1px dotted red;
+}
+
+.mce-content-body span.rubric::before {
+	content: "R ";
+	color: #FFB2B2;
+	font-style: italic;
+	border-bottom: 1px solid #FFB2B2;
+}
+
+.mce-content-body span.rubric {
+	border-bottom: 1px solid #FFB2B2;
+}
+
+.mce-content-body span.gap {
+	color: #CCC;
+}
+
+.mce-content-body span.damage {
+	color: #CCC;
+}
+
+.mce-content-body span.supplied {
+	font-family: Serif;
+	font-style: italic;
+}
+
+/* superlinear {
+	vertical-align: super;
+	font-size: 80%;
+} */
+
+.mce-content-body span.superlinear:before {
+	content: "\\";
+}
+
+.mce-content-body span.superlinear:after {
+	content: "\/";
+}
+
+.mce-content-body span.add:before {
+	content:"\00ab";
+}
+
+.mce-content-body span.add:after {
+	content:"\00bb";
+}
+
+.mce-content-body span.del {
+	text-decoration: line-through;
+}
+
+u {
+	text-decoration: underline;
+}
+
+.mce-content-body span.line:before {
+	color: blue;
+	content: "\21b5 \A";
+}
+
+.mce-content-body span.line {
+	white-space: pre;
+}
+
+.mce-content-body abbr {
+	border-bottom: 1px dotted black;
+}
+
+.mce-content-body a.person {
+	border-bottom: 1px solid #1ABC9C;
+}
+
+.mce-content-body a.location {
+	border-bottom: 1px solid #E74C3C;
+}
+
+.mce-content-body a.event {
+        border-bottom: 1px solid #E74CFF;
+}
+
+
+
+
+.mce-content-body span.pb:before { content: "[" attr(data-n) "]"; font-size: 80%; display: inline-block; width: 100%; text-align: center; }
+
+.mce-content-body span.pb {
+	display: block;
+	border-top: 1px dashed #555;
+}
+
+.mce-content-body span.marginalia::before {
+	content: "marginalia";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.mce-content-body span.marginalia {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.mce-content-body span.alternate::before {
+	content: "Alternate Testimony";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.mce-content-body span.alternate {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.mce-content-body span.note::before {
+	content: "note [" attr(data-type) "]";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.mce-content-body span.note {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.mce-content-body a.reference {
+	display: block;
+}
+
+.mce-content-body a.reference::before {
+	content: "reference";
+	background: #E74C3C;
+	color: #fff;
+	padding: 2px;
+	margin-right: 5px;
+}

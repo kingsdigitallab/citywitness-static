@@ -1,0 +1,6 @@
+html { background: #95A5A6 url(../images/bg/castle.jpg) no-repeat top center fixed; }
+.footerSection, .contentSection {
+  background: transparent;
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#FAffffff', endColorstr='#FAffffff');
+}
+h1.headerLogo {zoom:1;}

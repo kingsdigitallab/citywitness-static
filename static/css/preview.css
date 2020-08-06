@@ -1,0 +1,350 @@
+html {
+	height: 100%;
+}
+
+body {
+	font-family: "lato", Sans-Serif;
+	height: 100%;
+	background: #ECF0F1;
+}
+
+.header { border-top: 2px solid #46617c; }
+
+.header nav, .header .nav > li > a {
+	background: #22313F;
+}
+
+.header .navbar {
+	margin-bottom: 0;
+}
+
+.header .navbar a{
+	color: #fff;
+}
+
+.header .nav>li>a:hover, .header .nav>li>a:focus {
+	background-color: #2C3E50;
+}
+
+.header .dropdown-menu>li>a:hover, .header .dropdown-menu>li>a:focus {
+	background: #22313F;
+	color: #fff;
+}
+
+.header ul.dropdown-menu {
+	background: #2C3E50;
+}
+
+.header .navbar-right {
+	padding-right: 1%;
+}
+
+.header .navbar-nav>li>a {
+	line-height: 35px;
+}
+
+.langswitch{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	padding: .5%;
+}
+
+.langswitch a{
+	color: #fff;
+}
+
+.headroom {position: fixed;top: 0;left: 0;right: 0;transition: all .2s ease-in-out; z-index: 999999;}
+.headroom--unpinned {top: -100px;}
+.headroom--pinned {top: 0;}
+#main-content { padding-top: 60px; } /* nominal height of .headroom */
+
+#powerTip {
+	max-width: 500px;
+	white-space: normal !important;
+}
+
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	/* Negative indent footer by it's height */
+	margin: 0 auto -60px;
+}
+
+#push, .footer {
+	height: 60px;
+}
+
+div.hp-background { 
+	width: 100%; 
+	background: url("../media/manuscript.png"); 
+	background-size: cover;
+	margin-bottom: 2%;
+}
+
+div.hp-background:after {
+	content: "";
+	display: block;
+	width: "100%";
+	height: 50px;
+	background: url("../media/hp-cover-bottom.png") center bottom;
+}
+
+
+div.footer {
+	background: #ecf0f1;
+}
+
+.featuretext p {
+	font-size: 110%;
+	line-height: 150%;
+}
+
+.featuretext h1 { margin-top: 0; }
+
+.featuretext { color: #fff; background: rgba(34,49,63,0.95); padding: 1%; margin-top: 10%; margin-bottom: 10%;}
+
+div.hp-row-2 { margin-top: 2%; }
+.hp-feature-box h2 { margin-top: 0.5%; margin-bottom: 0.5%; }
+
+
+
+span.inner-heading { display: block; padding-left: 2%; background: #FFF; }
+span.inner-heading p { margin-bottom: 2px; }
+span.inner-heading h2 span.glyphicon { font-size: 75%; color: #67809F; }
+div.hp-tours > span.inner-heading h2 > span.glyphicon,
+	div.hp-tours > span.inner-heading p { color: #C0392B; }
+
+div.hp-story > span.inner-heading h2 > span.glyphicon,
+	div.hp-story > span.inner-heading p { color: #1BA39C; }
+
+div.hp-texts > span.inner-heading h2 > span.glyphicon, 
+	div.hp-texts > span.inner-heading p { color: #D35400; }
+
+div.hp-blog > span.inner-heading h2 > span.glyphicon,
+	div.hp-blog > span.inner-heading p { color: #4B77BE; }
+
+div.hp-map > span.inner-heading h2 > span.glyphicon,
+	div.hp-map > span.inner-heading p { color: #913D88; }
+div.hp-map > span.inner-content a img { display: block; margin: 0 auto 2% auto; }
+	
+span.inner-content { padding: 2% 0.5% 0.5% 0.5%; display: block; background: #fff; min-height: 125px; }
+
+span.inner-heading a:link { color: inherit; transition: all 0.2s ease-in-out;}
+span.inner-heading a:hover, span.inner-heading a:hover p { text-decoration: none; color: #3A539B; }
+
+.hp-feature-box ul {
+	list-style: none;
+	padding-left: 1%;
+}
+
+.hp-feature-box ul > li:before {
+	content: '\00b7';
+	padding-right: 5px;
+}
+
+.navbar-toggle {
+	padding: 16px 10px;
+}
+
+span.icon-bar {
+	background: #fff;
+}
+
+h1, h2, h3, h4, h5 { font-family: "lato", Sans-Serif; font-weight: 300; }
+h2.subtitle { color: #3A539B; margin-top: 0; font-size: 180%; border-bottom: 1px solid #D2D7D3; }
+
+.no-margin-top {
+	margin-top: 0;
+}
+
+.glyph-small {
+	font-size: 75%;
+	color: #A3BDCF;
+}
+
+.navbar {
+	padding: 0 1%;
+	border-radius: 0;
+	background: #ecf0f1;
+}
+
+.navbar a {
+	color: #777;
+}
+
+.wireframes img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #555;
+}
+
+div#notes {
+	border-top: 1px solid #34495e;
+}
+
+div#notes ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+div#academic_view a.person, div#academic_view a.location {
+	display: inline-block;
+}
+
+div#academic_view, div#reading_view {
+	font-family: 'Junicode';
+	font-size: 125%;
+	line-height: 175%;
+}
+
+div#academic_view p, div#academic_view h3 {
+	margin-right: 100px;
+}
+
+div#academic_view p {
+	margin-bottom: 20px;
+}
+
+div#academic_view span.marginalia{
+	color: #C0392B;
+	position: absolute;
+	right: 0;
+	width: 100px;
+}
+
+div#academic_view span.del{
+	color: #C0392B;
+	text-decoration: line-through;
+}
+
+div#academic_view span.fw {
+	display: block;
+	width: 100%;
+	background: #ecf0f1;
+	font-style: italic;
+}
+
+/*  ignore vertical positioning in data-place (top, bot) 
+	these should have been inputted in their correct position  */
+div#academic_view span.fw[data-place='top-right'], div#academic_view span.fw[data-place='bot-right'] {
+	text-align: right;
+}
+
+div#academic_view span.fw[data-place='top-center'], div#academic_view span.fw[data-place='bot-center'] {
+	text-align: center;
+}
+
+div#academic_view span.fw[data-place='top-left'], div#academic_view span.fw[data-place='bot-left'] {
+	text-align: left;
+}
+
+div#academic_view span.rubric {
+	color: #C0392B;
+	font-style: italic;
+}
+
+div#academic_view span.damage {
+	color: #CCC;
+}
+
+div#academic_view span.supplied {
+	color: #2980b9;
+	font-weight: bold;
+}
+
+div#academic_view span.gap {
+	color: #CCC;
+}
+
+div#academic_view span.supplied:after, div#academic_view span.gap:after {
+	color: #333;
+	font-size: 90%;
+	font-style: normal;
+	font-weight: normal;
+	background: #ecf0f1;
+	content: " [" attr(data-reason) "]";
+}
+
+div#academic_view a.note_inline {
+	cursor: pointer;
+}
+
+div#academic_view span.superlinear, div#academic_view a.note_inline {
+	vertical-align: super;
+	font-size: 80%;
+}
+
+/*
+div#academic_view span.superlinear:before {
+	content: "\\";
+}
+
+div#academic_view span.superlinear:after {
+	content: "\/";
+} */
+
+div#academic_view span.add{
+	color: #2980b9;
+}
+
+div#academic_view span.add[data-place='margin']{
+	position: absolute;
+	right: 0;
+	width: 100px;
+}
+
+div#academic_view span.add:before {
+	content:"\00ab";
+}
+
+div#academic_view span.add:after {
+	content:"\00bb";
+}
+
+div#academic_view span.del {
+	text-decoration: line-through;
+}
+
+u {
+	text-decoration: underline;
+}
+
+div#academic_view span.line:before {
+	color: blue;
+	content: "\21b5 \A";
+}
+
+div#academic_view span.line {
+	white-space: pre;
+}
+
+div#academic_view abbr {
+	border-bottom: 1px dotted black;
+}
+
+div#academic_view a.reference {
+	font-style: italic;
+}
+
+div#academic_view a.reference::before {
+	content: "{";
+}
+
+div#academic_view a.reference::after {
+	content: "}";
+}
+
+div#academic_view span.pb:before { content: "[" attr(data-n) "]"; font-size: 80%; display: inline-block; width: 100%; text-align: center; }
+
+div#academic_view span.pb {
+	display: block;
+	border-top: 1px dashed #555;
+}
+
+@font-face {
+    font-family: "Junicode";
+    src: url("../fonts/Junicode.woff") format('woff');
+}

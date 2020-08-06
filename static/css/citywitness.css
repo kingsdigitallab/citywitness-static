@@ -1,0 +1,567 @@
+/* Foundation overrides */
+
+body {
+	background: #ECF0F1;
+	font-family: "lato", sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "lato";
+	font-weight: 300;
+}
+
+table {
+	border: none;
+	width: 100%;
+}
+
+table.two-images img {
+	width: 100%;
+}
+
+li.has-dropdown ul.dropdown {
+	z-index: 9999999;
+} /* map controls were displaying above nav dropdown */
+
+@font-face {
+  font-family: 'Junicode';
+  src: url('/static/assets/fonts/Junicode.woff');
+}
+
+#powerTip {
+	white-space: normal !important;
+	max-width: 500px;
+}
+
+#powerTip a {
+	color: #008cba !important;
+}
+
+/* --- START MEZZANINE TEMPLATES --- */
+
+.secondary li:first-child {
+	margin-bottom: 20px;
+}
+
+.secondary li a {
+	padding: 5px 10px;
+	display: block;
+	border-bottom: 1px solid #fff;
+}
+
+.secondary p {
+	padding: 0 10px;
+}
+
+.secondary li a:hover {
+	background: #fff;
+}
+
+li.nav-title {
+	background: #ABB7B7;
+	padding: 5px 10px;
+}
+
+li.nav-title h3 {
+	color: #22313F;
+}
+
+.person:before, .location:before, .event:before, .marginalia-marker {
+	font-family: "FontAwesome";
+	padding-right: 3px;
+	font-size: .8125em;
+}
+
+.person:before {
+	content: "";
+}
+.location:before {
+	content: "";
+}
+
+.event:before {
+	content: "";
+}
+
+.marginalia-marker:before {
+	content: "";
+	color: #c0392b;
+	padding-left: 3px;
+}
+
+/* ---- END MEZZANINE TEMPLATES ---- */
+
+
+/* --- START UTILITIES --- */
+
+ul.unstyled {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+div.page-content,
+div.page-heading {
+	background: #fff;
+}
+
+/* div.page-heading {
+	margin: 1% inherit;
+} */
+
+div.page-heading h2.subtitle {
+	font-size: 120%;
+}
+
+/* ---- END UTILITIES ---- */
+
+
+/* --- START NAVIGATION --- */
+
+div.header {
+	border-top: 2px solid #46617c;
+}
+
+.beta {
+	position: absolute;
+	background: url(/static/img/beta_flag.png) top left no-repeat transparent;
+	width: 70px;
+	height: 70px;
+	background-size: contain;
+	z-index: 100;
+}
+
+.top-bar {
+	background: #22313F;
+	height: 70px;
+	line-height: 70px;
+	padding-left: 20px;
+}
+
+li.name a {
+	line-height: 70px;
+	padding: 0 10px;
+}
+
+.top-bar-section li a,
+.top-bar-section li:not(.has-form) a:not(.button) {
+	background: #22313F;
+	line-height: 70px;
+	font-family: 'lato', sans-serif;
+}
+
+.top-bar-section .has-dropdown>a:after {
+	top: 35px;
+}
+
+ul.dropdown li a {
+	line-height: 25px !important;
+}
+
+.top-bar-section li a:hover,
+.top-bar-section li:not(.has-form) a:not(.button):hover,
+.top-bar-section ul li:hover:not(.has-form) > a {
+	background: #2C3E50;
+}
+
+/* ---- END NAVIGATION ---- */
+
+
+/* --- START HOMEPAGE --- */
+
+div.hp-feature { 
+	width: 100%; 
+	background: url("/static/media/castle.jpg"); 
+	background-size: cover;
+	background-position: center;
+}
+
+div.hp-feature:after {
+	content: "";
+	display: block;
+	width: "100%";
+	height: 50px;
+	background: url("../media/hp-cover-bottom.png") center bottom;
+}
+
+div.featuretext {
+	color: #fff;
+	margin: 10% 0;
+	padding: 1% 3%;
+	background: rgba(34,49,63,0.95);
+}
+
+div.featuretext h1 {
+	color: #fff;
+	font-weight: 300;
+}
+
+.featuretext h2 {
+	color: #d8d8d8;
+}
+
+div.hp-panels > div {
+	/* background: #fff; */
+	margin: 1% inherit;
+	border: 2px solid #ECF0F1;
+	min-height: 300px;
+}
+
+.hp-panels h2 {
+	font-weight: 300;
+	margin-bottom: 0;
+	font-size: 200%;
+}
+
+div.hp-panels > .columns {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.hp-panels > .columns > span {
+	display: block;
+	padding-left: .9375rem;
+	padding-right: .9375rem;
+}
+
+span.hp-panel-title {
+	background: #fff;
+	border-top: 2px solid #ECF0F1;
+	border-bottom: 2px solid #ECF0F1;
+}
+
+span.hp-panel-title p {
+	margin-bottom: 1%;
+}
+
+span.hp-panel-content {
+	margin-top: 2%;
+}
+
+.hp-panels > div {
+	background-size: cover;
+	background-position: center;
+}
+
+.one {
+	background-image: url('../media/about.png');
+}
+
+.two {
+	background-image: url('../media/context.png');
+}
+
+.three {
+	background-image: url('../media/mapping.png');
+}
+
+.four {
+	background-image: url('../media/manuscript.jpg');
+}
+
+.five {
+	background-image: url('../media/tours.png');
+}
+
+.six {
+	background-image: url('../media/game.png');
+}
+
+.hp-panel-content .unstyled > li,
+.hp-panel-content p {
+    background: rgba(255, 255, 255, 0.85);
+    /* margin-top: 5px; */
+    padding: 0 5px;
+    border-bottom: 3px solid #22313F;
+}
+
+a.fill-div {
+	width: 100%;
+	min-height: 190px;
+	display: block;
+}
+
+/* ---- END HOMEPAGE ---- */
+
+
+/* --- START TEXTS/STATEMENTS --- */
+
+.statements-title li {
+	font-size: 1.25em;
+	line-height: 2em;
+	border-bottom: 1px solid #ddd;
+}
+.statements-title li a {
+	display: block;
+}
+
+dl.text-tabs {
+	margin-top: 1%;
+}
+
+dl.text-tabs dd {
+	margin-right: 1%;
+	text-align: center;
+}
+
+.text-tabs dd a {
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	margin: .5em;
+}
+
+.tabs dd > a {
+	padding: .5em;
+}
+
+.text-tabs dd {
+	margin-top: 2.035em;
+}
+
+.text-tabs dd.active {
+	margin-top: .5em !important;
+}
+
+dl.text-tabs dd.active {
+	font-weight: bold;
+}
+
+.switch-views dd.active:before {
+	content: "Currently displaying";
+}
+
+div#notes {
+	border-top: 1px solid #ECF0F1;
+}
+
+div#notes ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+div#academic_view a.person,
+div#academic_view a.location {
+	display: inline-block;
+}
+
+div#academic_view,
+div#reading_view {
+	font-family: 'Junicode', serif;
+	/* font-size: 125%; */
+	line-height: 175%;
+}
+
+div#academic_view p,
+div#academic_view h3 {
+	margin-right: 100px;
+}
+
+div#academic_view p {
+	margin-bottom: 20px;
+}
+
+div#academic_view span.marginalia{
+	color: #C0392B;
+	position: absolute;
+	right: 0;
+	width: 100px;
+}
+
+div#academic_view span.del{
+	color: #C0392B;
+	text-decoration: line-through;
+}
+
+div#academic_view span.fw {
+	display: block;
+	width: 100%;
+	background: #ecf0f1;
+	font-style: italic;
+}
+
+/*  ignore vertical positioning in data-place (top, bot) 
+	these should have been inputted in their correct position  */
+div#academic_view span.fw[data-place='top-right'],
+div#academic_view span.fw[data-place='bot-right'] {
+	text-align: right;
+}
+
+div#academic_view span.fw[data-place='top-center'],
+div#academic_view span.fw[data-place='bot-center'] {
+	text-align: center;
+}
+
+div#academic_view span.fw[data-place='top-left'],
+div#academic_view span.fw[data-place='bot-left'] {
+	text-align: left;
+}
+
+div#academic_view span.rubric {
+	color: #C0392B;
+	font-style: italic;
+}
+
+div#academic_view span.damage {
+	color: #CCC;
+}
+
+div#academic_view span.supplied {
+	color: #2980b9;
+	font-weight: bold;
+}
+
+div#academic_view span.gap {
+	color: #CCC;
+}
+
+div#academic_view span.supplied:after,
+div#academic_view span.gap:after {
+	color: #333;
+	font-size: 90%;
+	font-style: normal;
+	font-weight: normal;
+	background: #ecf0f1;
+	content: " [" attr(data-reason) "]";
+}
+
+div#academic_view a.note_inline {
+	cursor: pointer;
+}
+
+div#academic_view span.superlinear,
+div#academic_view a.note_inline {
+	vertical-align: super;
+	font-size: 80%;
+}
+
+div#academic_view span.add{
+	color: #2980b9;
+}
+
+div#academic_view span.add[data-place='margin']{
+	position: absolute;
+	right: 0;
+	width: 100px;
+}
+
+div#academic_view span.add:before {
+	content:"\00ab";
+}
+
+div#academic_view span.add:after {
+	content:"\00bb";
+}
+
+div#academic_view span.del {
+	text-decoration: line-through;
+}
+
+u {
+	text-decoration: underline;
+}
+
+div#academic_view span.line:before {
+	color: blue;
+	content: "\21b5 \A";
+}
+
+div#academic_view span.line {
+	white-space: pre;
+}
+
+div#academic_view abbr {
+	border-bottom: 1px dotted black;
+}
+
+div#academic_view a.reference {
+	font-style: italic;
+}
+
+div#academic_view a.reference::before {
+	content: "{";
+}
+
+div#academic_view a.reference::after {
+	content: "}";
+}
+
+div#academic_view span.pb:before {
+	content: "[" attr(data-n) "]";
+	font-size: 80%;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+div#academic_view span.pb {
+	display: block;
+	border-top: 1px dashed #555;
+}
+
+/* ---- END TEXTS/STATEMENTS ---- */
+
+
+/* ---- MAP MARKERS ---- */
+
+.pav-marker {
+    background: url("/static/media/swansea-pavement-marker.png") no-repeat;
+    background-size: contain;
+    color: #fff;
+    font-size: 18px;
+    height: 100px;
+    padding-top: 24px;
+    width: 100px;
+}
+
+.pav-marker-no {
+    float: right;
+    text-align: center;
+    width: 36px;
+}
+
+/* ---- END MAP MARKERS ---- */
+
+/* WHO'S WHO */
+
+.record-card li {
+	text-align: center;
+}
+
+.record-card li img {
+	padding: 3px;
+	border: 1px solid #ABB7B7;
+}
+
+/* END WHO'S WHO */
+
+/* --- START FOOTER --- */
+
+div.footer {
+	padding: 3% 0 0 0;
+}
+
+.footer ul {
+	line-height: 125%;
+}
+
+/* ---- END FOOTER ---- */
+
+
+/* ---- EXTRA RESPONSIVE STUFF ---- */
+
+@media only screen and (max-width: 40em) {
+	.top-bar-section {
+		margin-top: 1em;
+	}
+
+	.top-bar-section li {
+		border-bottom: 1px solid #ABB7B7;
+	}
+
+	.top-bar-section ul li > a {
+		line-height: 30px !important;
+	}
+
+	.top-bar.expanded {
+		background: #22313F;
+	}
+}

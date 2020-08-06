@@ -1,0 +1,106 @@
+  body {
+    overflow-x: hidden;
+  }
+html {
+  background: url(../images/bg/castle.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+em,i { font-style: italic; }
+.global {z-index:2000;position:relative;width:960px;margin: 1em auto;}
+
+body {font-family: Nunito, Arial, Helvetica, sans-serif}
+h1.headerLogo {width:331px;height:80px;text-indent:-9999px;background:url(../images/white2.png);zoom:1;}
+header h2 {position:absolute;right:0;bottom:-4px;color:#fff;text-decoration:none;font-size:large}
+header {overflow:hidden;position:relative}
+
+nav.primary {border-top: 1px solid rgba(255,255,255,0.4);margin-top:1em;overflow:hidden}
+nav.primary li {float:left;   font-size:large }
+nav.primary a {color:#fff;text-decoration:none;text-transform:uppercase;padding: 12px 20px;float:left}
+nav.primary a:hover {border:1px solid rgba(255,255,255,0.4);border-top:0;padding: 12px 19px 11px 19px;}
+nav.primary a.active,nav.primary a.active:hover {background:rgba(255,255,255,0.4);padding: 12px 20px;color:#6b8dac;border:0}
+
+nav.secondary {border-top: 1px solid #b5c6d5;overflow:hidden;margin-bottom:1em}
+nav.secondary li {float:left; }
+nav.secondary a{color:#6b8dac;text-decoration:none;text-transform:uppercase;padding: 8px 10px;float:left} 
+nav.secondary h3 {color:#6b8dac;float:left;font-weight:700;padding: 8px 10px 8px 0;float:left}
+nav.secondary a:hover {border:1px solid #b5c6d5;border-top:0;padding: 8px 9px 7px 9px;}
+nav.secondary a.active,nav.secondary a.active:hover {background:#b5c6d5;padding: 8px 10px;color:#fff;border:0}
+
+.contentSection {background: rgba(255,255,255,0.9);overflow:hidden;margin-top:2em;padding:2em;}
+.content h1 {font-size:xx-large;color:#6b8dac;margin-bottom:0.4em}
+.content h2 {font-size:x-large;color:#6b8dac;margin-bottom:0.4em}
+.content h3 {font-size:large;color:#793930;margin-bottom:0.4em}
+.content h4 {font-size:medium;color:#3e5218;margin-bottom:0.4em}
+.content p {margin:0 0 1em 0;line-height:1.5em;color:#333}
+.content strong {color:#6b8dac;font-weight:700}
+.content a {color:#6b8dac;}
+
+.content ul,.content ol {margin: 0 0 1em 45px !important;  }
+   .content ol li {list-style:decimal;line-height:1.5em;color:#333;margin-bottom:0.3em}
+   .content ul li {list-style:square;}
+
+
+
+.footerSection {margin-top:2em;padding:1em;background: rgba(255,255,255,0.9);overflow:hidden}
+
+  .footerSection a.logo {
+    text-indent: -99999px;
+    position: relative;
+    display: block;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-right:24px;
+    border: 0;
+    -webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    -o-transition: opacity 0.5s;
+    float: left; }
+  .footerSection .logo.ahrc {
+    background-image: url(../images/logos/logo-ahrc-bw.png);
+    width: 190px;
+    height: 45px;
+    opacity: 0.6; }
+  .footerSection .logo.ahrc:hover {
+    background-image: url(../images/logos/logo-ahrc.png);
+    opacity: 1; }
+  .footerSection .logo.soton {
+    background-image: url(../images/logos/logo-soton-bw.png);
+    width: 139px;
+    height: 30px;
+    position: relative;
+    top: 12px;
+    opacity: 0.6; }
+  .footerSection .logo.soton:hover {
+    background-image: url(../images/logos/logo-soton.png);
+    opacity: 1; }
+  .footerSection .logo.qub {
+    background-image: url(../images/logos/logo-qub-bw.png);
+    height: 45px;
+    width: 120px;
+    opacity: 0.6; }
+  .footerSection .logo.qub:hover {
+    background-image: url(../images/logos/logo-qub.png);
+    opacity: 1; }
+  .footerSection .logo.ddh {
+    background-image: url(../images/logos/logo-ddh-bw.png);
+    opacity: 0.6;
+    width: 47px;
+    height: 45px;}
+  .footerSection .logo.ddh:hover {
+    background-image: url(../images/logos/logo-ddh.png);
+    opacity: 1; }
+
+
+  
+p.meta {font-size: small;color:#6b8dac;}
+p.blog-list-detail {font-size:small; color:#793930;}
+div.post{border-bottom: 1px solid #b5c6d5;margin-bottom:0.4em;padding-bottom:0.4em}
+
+
+#map {
+  height:600px;
+  width:100%;
+}

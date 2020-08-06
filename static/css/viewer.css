@@ -1,0 +1,272 @@
+a:link, a:hover, a:visited, a:active {
+	text-decoration: none;
+}
+
+.viewer {
+	font-size: 125%;
+	line-height: 150%;
+}
+
+.viewer div.statement, .viewer div.text {
+	display: block;
+	padding: 3px;
+	border: 1px solid #2C3E50;
+	margin: 3px 0;
+}
+
+.viewer div.statement::before {
+	content: "statement [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #2C3E50;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer div.text::before {
+	content: "Text [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #2C3E50;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer p:not(.viewrecord) {
+	display: block;
+	padding: 3px;
+	border: 1px solid #BDC3C7;
+	margin: 3px 0;
+}
+
+.viewer p:not(.viewrecord)::before {
+	content: "paragraph [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #BDC3C7;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer span.heading {
+	font-weight: bold;
+	display: block;
+	border: 1px solid #34495E;
+	padding: 3px;
+	margin: 3px 0;
+}
+
+.viewer span.heading::before {
+	content: "heading";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #34495E;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+	font-weight: normal;
+}
+
+.viewer span.fw:after {
+	content: "\0192";
+	color: red;
+}
+
+.viewer span.fw {
+	border-bottom: 1px dotted red;
+}
+
+.viewer span.rubric::before {
+	content: "R ";
+	color: #FFB2B2;
+	font-style: italic;
+	border-bottom: 1px solid #FFB2B2;
+}
+
+.viewer span.rubric {
+	border-bottom: 1px solid #FFB2B2;
+}
+
+.viewer span.gap {
+	color: #CCC;
+}
+
+.viewer span.damage {
+	color: #CCC;
+}
+
+.viewer span.supplied {
+	font-family: Serif;
+	font-style: italic;
+}
+
+/* superlinear {
+	vertical-align: super;
+	font-size: 80%;
+} */
+
+.viewer span.superlinear:before {
+	content: "\\";
+}
+
+.viewer span.superlinear:after {
+	content: "\/";
+}
+
+.viewer span.add:before {
+	content:"\00ab";
+}
+
+.viewer span.add:after {
+	content:"\00bb";
+}
+
+.viewer span.del {
+	text-decoration: line-through;
+}
+
+u {
+	text-decoration: underline;
+}
+
+.viewer span.line:before {
+	color: blue;
+	content: "\21b5 \A";
+}
+
+.viewer span.line {
+	white-space: pre;
+}
+
+.viewer abbr {
+	border-bottom: 1px dotted black;
+}
+
+.viewer a.person {
+	border-bottom: 1px solid #1ABC9C;
+}
+
+.viewer a.location {
+	border-bottom: 1px solid #E74C3C;
+}
+
+.viewer span.pb:before { content: "[" attr(data-n) "]"; font-size: 80%; display: inline-block; width: 100%; text-align: center; }
+
+.viewer span.pb {
+	display: block;
+	border-top: 1px dashed #555;
+}
+
+.viewer span.marginalia::before {
+	content: "marginalia";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer span.marginalia {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.viewer span.alternate::before {
+	content: "Alternate Testimony";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer span.alternate {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.viewer span.alternate::before {
+	content: "Alternate Testimony";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer span.alternate {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.viewer span.note::before {
+	content: "note [" attr(data-type) "]";
+	font-size: 100%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #CCC;
+	color: #333;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+.viewer span.note {
+	border: 1px dashed #ccc;
+	padding: 3px;
+	margin: 10px;
+	display: block;
+	font-size: 75%;
+}
+
+.viewer a.reference {
+	display: block;
+}
+
+.viewer a.reference::before {
+	content: "reference";
+	background: #E74C3C;
+	color: #fff;
+	padding: 2px;
+	margin-right: 5px;
+}
+
+
+

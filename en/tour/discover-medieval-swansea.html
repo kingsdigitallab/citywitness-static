@@ -1,0 +1,260 @@
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>City Witness</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+	<link href='../../static/css/normalize.css' rel="stylesheet" type="text/css">
+	<link href='../../static/css/foundation.min.css' rel="stylesheet" type="text/css">
+
+	<link href='../../static/css/citywitness.css' rel="stylesheet" type="text/css">
+
+	<script src='../../static/js/vendor/modernizr.js'></script>
+
+	<!-- Font Awesome -->
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+	
+    <link href='../../static/js/leaflet.css' rel="stylesheet" type="text/css">
+    <link href='../../static/css/general_map.css' rel="stylesheet" type="text/css">
+    <link href='../../static/js/leaflet.label.css' rel="stylesheet" type="text/css">
+    <link href='../../static/js/jquery-ui.css' rel="stylesheet" type="text/css">	
+
+	
+	<style>
+		.clearing-container { z-index:16000;}
+	</style>
+	
+</head>
+<body>
+	<div id="wrap">
+
+	  <!--[if lte IE 8]>
+
+	    <div class="alert-box warning">
+	      <p>In accordance with best practice this website has been developed to support web standards, which is an important part of ensuring that it will last a long time.  The browser you are using is out of date and will not display this website correctly. For advice about alternatives and upgrading, please visit <a href="http://www.updateyourbrowser.net/en/">http://www.updateyourbrowser.net/en/</a>.</p>
+	    </div>
+
+	  <![endif]-->
+	  
+		<div class="header" id="header">
+    		<div class="beta"></div><!-- Show BETA on the top LH corner -->
+			<nav class="top-bar fixed" data-topbar>
+				<ul class="title-area">
+					<li class="name">
+						<a href="../index.html"><img src="../../static/assets/images/white.png" title="Home" /></a>
+					</li>
+					<li class="toggle-topbar menu-icon"><a href="discover-medieval-swansea.html#">Menu</a></li>
+				</ul>
+
+				<section class="top-bar-section">
+					<ul class="left">
+							
+<li><a href="../information/index.html">About</a></li><li><a href="../context/index.html">Context</a></li><li><a href="../mapping/index.html">Mapping</a></li><li><a href="../tours/index.html">Tours</a></li><li><a href="../game/index.html">Game</a></li><li><a href="../the-story/index.html">The Story</a></li><li><a href="../blog/index.html">Blog</a></li>
+					</ul>
+					<ul class="right">
+						<li>
+				    		
+								<a href="../../cy/tour/discover-medieval-swansea.html">Cymraeg</a>
+							
+						</li>
+					</ul>
+				</section>
+			</nav>
+		</div><!-- .header -->
+
+		
+			
+		
+
+		<div class="container" id="main-content">
+
+			<div class="row">
+
+		        <div class="large-12 columns page-content">
+
+					
+
+	<!-- modal -->
+	
+	<div id="tour-modal" style="z-index: 15000;" class="reveal-modal" data-reveal>
+		<!-- place content to go here -->
+	</div>
+	
+	<!-- end modal -->
+
+	<div class="row">
+	<div class="large-12 columns page-heading">
+		<h1>Discover Medieval Swansea</h1>
+		<h2 class="subtitle"><p>Explore the rich and fascinating medieval heritage of Swansea.</p></h2>
+		<p>Click on waypoint number 1 to begin your tour. Explore the multi-media content for each location as you go.</p>
+		
+		
+		</div>
+	</div>
+	<div class="row page-content">
+		<div class="large-3 columns">
+			<div id="tour-content">
+			</div>
+		</div>
+
+		<div id="map" class="large-12 columns">
+
+		</div>
+	</div>
+
+
+				</div><!-- .columns -->
+		        
+
+	      	</div><!-- .row -->
+
+
+		</div><!-- .container -->
+		
+		<div id="push"></div>
+
+	</div>
+	<div class="footer" id="footer">
+		<div class="row">
+			<div class="large-12 columns">
+				<ul class="inline-list">
+					<li><a href="http://www.ahrc.ac.uk" title="Arts and Humanities Research Council"><img src='../../static/assets/images/logos/logo-ahrc-bw.png' alt="Arts and Humanities Research Council"></a></li>
+					<li><a href="http://www.soton.ac.uk" title="University of Southampton"><img src='../../static/assets/images/logos/logo-soton-bw.png' alt="University of Southampton"></a></li>
+					<li><a href="http://www.qub.ac.uk" title="Queen's University Belfast"><img src='../../static/assets/images/logos/logo-qub-bw.png' alt="Queen's University Belfast"></a></li>
+					<li><a href="http://www.kcl.ac.uk/ddh" title="King's College London Digital Humanities"><img src='../../static/assets/images/logos/logo-ddh-bw.png' alt="King's College London Digital Humanities"></a></li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+
+	<script src='../../static/js/vendor/jquery.js'></script>
+	<script src='../../static/js/foundation.min.js'></script>
+	<script>
+      $(document).foundation();
+    </script>
+
+	<script>
+		$(window).bind("load", function () {
+		    var footer = $("#footer");
+		    var pos = footer.position();
+		    var height = $(window).height();
+		    height = height - pos.top;
+		    height = height - footer.height() - $("#header").height();
+		    if (height > 0) {
+		        footer.css({
+		            'margin-top': height + 'px'
+		        });
+		    }
+		});
+	</script>
+
+	
+
+	<script>
+
+	tourObject = (
+		{
+		"type": "FeatureCollection",
+		"features": [
+		
+			{"type": "Feature", "properties": 
+				{ "order": 1,
+				  "medname": "New Castle",
+	              "location_id" : 3,
+				  "tour_id" : 6,
+				   "popup-content-about" : "The remains of the New Castle are one of Swansea's most visible medieval survivals.",
+				   "language_code" : "en",
+				   "pavement-marker": "4"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941649, 51.620292 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 2,
+				  "medname": "Strand",
+	              "location_id" : 31,
+				  "tour_id" : 6,
+				   "popup-content-about" : "In the medieval period, indeed until the mid-nineteenth century, the Strand followed the line of the River Tawe and was a vital part of the town's trade and commercial activities.",
+				   "language_code" : "en",
+				   "pavement-marker": "13"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.939901, 51.619975 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 3,
+				  "medname": "Market Place",
+	              "location_id" : 26,
+				  "tour_id" : 6,
+				   "popup-content-about" : "In the Middle Ages, this part of Wind Street formed a busy market place.",
+				   "language_code" : "en",
+				   "pavement-marker": "15"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941186, 51.619740 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 4,
+				  "medname": "St David&#39;s Hospital",
+	              "location_id" : 34,
+				  "tour_id" : 6,
+				   "popup-content-about" : "The Cross Keys is perhaps the only building, other than the castle, in Swansea to retain elements of a medieval structure, and its survival is an important part of the city's medieval story.",
+				   "language_code" : "en",
+				   "pavement-marker": "17"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.942152, 51.619415 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 5,
+				  "medname": "St Mary&#39;s Church",
+	              "location_id" : 8,
+				  "tour_id" : 6,
+				   "popup-content-about" : "St Mary's Church was the parish church of medieval Swansea.",
+				   "language_code" : "en",
+				   "pavement-marker": "12"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.942736, 51.619676 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 6,
+				  "medname": "Town Walls",
+	              "location_id" : 7,
+				  "tour_id" : 6,
+				   "popup-content-about" : "Although not very evident today, Swansea was once surrounded by a series of defences and gates.",
+				   "language_code" : "en",
+				   "pavement-marker": "11"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.943873, 51.619133 ] } }
+		
+		
+		]}
+	);
+
+	</script>
+	<script src="../../static/js/leaflet.js"></script>
+        <script src="../../static/js/leaflet.label.js"></script>
+
+     <script src="../../static/js/foundation.clearing.js"></script>
+
+    <script src="../../static/js/jquery-ui-min.js" type="text/javascript"></script>		
+	<script src="../../static/js/tour-map.js"></script>
+
+
+</body>
+</html>

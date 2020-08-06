@@ -1,0 +1,30 @@
+.viewer {
+	font-size: 100%;
+	line-height: 150%;
+}
+
+.viewer  p:not(.viewrecord) {
+	display: block;
+	padding: 3px;
+	border: 1px solid #BDC3C7;
+	margin: 3px 0;
+}
+
+.viewer p:not(.viewrecord)::before {
+	content: "paragraph [id = " attr(data-id) "]";
+	font-size: 75%;
+	text-transform: uppercase;
+	vertical-align: super;
+	display: block;
+	background: #BDC3C7;
+	color: #FFF;
+	line-height: 100%;
+	margin: -3px -3px 3px -3px;
+	padding: 5px 3px;
+}
+
+span.addLinkBox {
+	display: block;
+	border: 1px solid #333;
+	padding: 1% .5%;
+}

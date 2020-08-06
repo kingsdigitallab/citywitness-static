@@ -1,0 +1,260 @@
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>City Witness</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+	<link href='../../static/css/normalize.css' rel="stylesheet" type="text/css">
+	<link href='../../static/css/foundation.min.css' rel="stylesheet" type="text/css">
+
+	<link href='../../static/css/citywitness.css' rel="stylesheet" type="text/css">
+
+	<script src='../../static/js/vendor/modernizr.js'></script>
+
+	<!-- Font Awesome -->
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+	
+    <link href='../../static/js/leaflet.css' rel="stylesheet" type="text/css">
+    <link href='../../static/css/general_map.css' rel="stylesheet" type="text/css">
+    <link href='../../static/js/leaflet.label.css' rel="stylesheet" type="text/css">
+    <link href='../../static/js/jquery-ui.css' rel="stylesheet" type="text/css">	
+
+	
+	<style>
+		.clearing-container { z-index:16000;}
+	</style>
+	
+</head>
+<body>
+	<div id="wrap">
+
+	  <!--[if lte IE 8]>
+
+	    <div class="alert-box warning">
+	      <p>In accordance with best practice this website has been developed to support web standards, which is an important part of ensuring that it will last a long time.  The browser you are using is out of date and will not display this website correctly. For advice about alternatives and upgrading, please visit <a href="http://www.updateyourbrowser.net/en/">http://www.updateyourbrowser.net/en/</a>.</p>
+	    </div>
+
+	  <![endif]-->
+	  
+		<div class="header" id="header">
+    		<div class="beta"></div><!-- Show BETA on the top LH corner -->
+			<nav class="top-bar fixed" data-topbar>
+				<ul class="title-area">
+					<li class="name">
+						<a href="../../en/index.html"><img src="../../static/assets/images/white.png" title="Ħǿḿḗ" /></a>
+					</li>
+					<li class="toggle-topbar menu-icon"><a href="the-hanging-of-william-cragh.html#">Menu</a></li>
+				</ul>
+
+				<section class="top-bar-section">
+					<ul class="left">
+							
+<li><a href="../information/index.html">About</a></li><li><a href="../context/index.html">Context</a></li><li><a href="../mapping/index.html">Mapping</a></li><li><a href="../tours/index.html">Tours</a></li><li><a href="../game/index.html">Game</a></li><li><a href="../the-story/index.html">The Story</a></li><li><a href="../blog/index.html">Blog</a></li>
+					</ul>
+					<ul class="right">
+						<li>
+				    		
+								<a href="../../en/tour/the-hanging-of-william-cragh.html">English</a>
+							
+						</li>
+					</ul>
+				</section>
+			</nav>
+		</div><!-- .header -->
+
+		
+			
+		
+
+		<div class="container" id="main-content">
+
+			<div class="row">
+
+		        <div class="large-12 columns page-content">
+
+					
+
+	<!-- modal -->
+	
+	<div id="tour-modal" style="z-index: 15000;" class="reveal-modal" data-reveal>
+		<!-- place content to go here -->
+	</div>
+	
+	<!-- end modal -->
+
+	<div class="row">
+	<div class="large-12 columns page-heading">
+		<h1>Crogi William Cragh</h1>
+		<h2 class="subtitle"><p>Cerddwch drwy stori William Cragh, y gŵr a grogwyd yn Abertawe'r Oesoedd Canol cyn atgyfodi'n wyrthiol...&nbsp;</p></h2>
+		
+		<p> Cliciwch ar nodwr llwybr 1 i ddechrau'ch taith dywys. Archwiliwch y cynnwys amlgyfrwng ar gyfer pob lleoliad rydych yn ymweld ag ef.</p>
+		
+		</div>
+	</div>
+	<div class="row page-content">
+		<div class="large-3 columns">
+			<div id="tour-content">
+			</div>
+		</div>
+
+		<div id="map" class="large-12 columns">
+
+		</div>
+	</div>
+
+
+				</div><!-- .columns -->
+		        
+
+	      	</div><!-- .row -->
+
+
+		</div><!-- .container -->
+		
+		<div id="push"></div>
+
+	</div>
+	<div class="footer" id="footer">
+		<div class="row">
+			<div class="large-12 columns">
+				<ul class="inline-list">
+					<li><a href="http://www.ahrc.ac.uk" title="Arts and Humanities Research Council"><img src='../../static/assets/images/logos/logo-ahrc-bw.png' alt="Arts and Humanities Research Council"></a></li>
+					<li><a href="http://www.soton.ac.uk" title="University of Southampton"><img src='../../static/assets/images/logos/logo-soton-bw.png' alt="University of Southampton"></a></li>
+					<li><a href="http://www.qub.ac.uk" title="Queen's University Belfast"><img src='../../static/assets/images/logos/logo-qub-bw.png' alt="Queen's University Belfast"></a></li>
+					<li><a href="http://www.kcl.ac.uk/ddh" title="King's College London Digital Humanities"><img src='../../static/assets/images/logos/logo-ddh-bw.png' alt="King's College London Digital Humanities"></a></li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+
+	<script src='../../static/js/vendor/jquery.js'></script>
+	<script src='../../static/js/foundation.min.js'></script>
+	<script>
+      $(document).foundation();
+    </script>
+
+	<script>
+		$(window).bind("load", function () {
+		    var footer = $("#footer");
+		    var pos = footer.position();
+		    var height = $(window).height();
+		    height = height - pos.top;
+		    height = height - footer.height() - $("#header").height();
+		    if (height > 0) {
+		        footer.css({
+		            'margin-top': height + 'px'
+		        });
+		    }
+		});
+	</script>
+
+	
+
+	<script>
+
+	tourObject = (
+		{
+		"type": "FeatureCollection",
+		"features": [
+		
+			{"type": "Feature", "properties": 
+				{ "order": 1,
+				  "medname": "Y Ddaeargell",
+	              "location_id" : 5,
+				  "tour_id" : 5,
+				   "popup-content-about" : "Mae hanes hir a diddorol i ddaeargell Castell Abertawe.&nbsp;",
+				   "language_code" : "cy",
+				   "pavement-marker": "6"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941062, 51.620533 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 2,
+				  "medname": "Rhiw’r Crocbren ",
+	              "location_id" : 25,
+				  "tour_id" : 5,
+				   "popup-content-about" : "Oddi yma gallwch edrych i gyfeiriad Rhiw&rsquo;r Gogledd, safle&rsquo;r crocbren oedd yn edrych dros dref Abertawe.",
+				   "language_code" : "cy",
+				   "pavement-marker": "2"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941437, 51.624845 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 3,
+				  "medname": "Capel Sant Ioan",
+	              "location_id" : 1,
+				  "tour_id" : 5,
+				   "popup-content-about" : "Eglwys St Mathew heddiw, sef safle Capel canoloesol Sant Ioan.&nbsp;",
+				   "language_code" : "cy",
+				   "pavement-marker": "1"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941266, 51.626398 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 4,
+				  "medname": "Tŷ Thomas Mathews",
+	              "location_id" : 4,
+				  "tour_id" : 5,
+				   "popup-content-about" : "Mae&rsquo;r lleoliad hwn yn cynrychioli tŷ nodweddiadol o eiddo bwrdais canoloesol, fel eiddo Thomas Mathews yn hanes crogi William Cragh.",
+				   "language_code" : "cy",
+				   "pavement-marker": "5"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941954, 51.623861 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 5,
+				  "medname": "Castell Newydd",
+	              "location_id" : 3,
+				  "tour_id" : 5,
+				   "popup-content-about" : "Gweddillion y Castell Newydd yw un o&rsquo;r elfennau canoloesol mwyaf gweladwy sydd wedi goroesi yn Abertawe.",
+				   "language_code" : "cy",
+				   "pavement-marker": "4"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.941649, 51.620292 ] } }
+		,
+		
+			{"type": "Feature", "properties": 
+				{ "order": 6,
+				  "medname": "Eglwys y Santes Fair",
+	              "location_id" : 8,
+				  "tour_id" : 5,
+				   "popup-content-about" : "Eglwys y Santes Fair oedd eglwys y plwyf yn Abertawe&rsquo;r canol oesoedd.&nbsp;",
+				   "language_code" : "cy",
+				   "pavement-marker": "12"
+				}, 
+			 "geometry": { 
+				"type": "Point", "coordinates": [-3.942736, 51.619676 ] } }
+		
+		
+		]}
+	);
+
+	</script>
+	<script src="../../static/js/leaflet.js"></script>
+        <script src="../../static/js/leaflet.label.js"></script>
+
+     <script src="../../static/js/foundation.clearing.js"></script>
+
+    <script src="../../static/js/jquery-ui-min.js" type="text/javascript"></script>		
+	<script src="../../static/js/tour-map.js"></script>
+
+
+</body>
+</html>

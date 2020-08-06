@@ -1,0 +1,930 @@
+var timeline = ({"events": [
+	{"order": "253",
+	 "desc": "William Cragh is led to the gallows",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"253",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh is led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"Swansea",
+	 					"to":"Gallows",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"204",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is led to the gallows by horsemen",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"New Castle",
+	 					"to":"Gallows",
+	 					"witness_loc":"",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"125",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh and Trahaearn led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"New Castle",
+	 					"to":"Gallows",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"212",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"The Dungeon",
+	 					"to":"Gallows",
+	 					"witness_loc":"",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"214",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"The Dungeon",
+	 					"to":"Gallows",
+	 					"witness_loc":"",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"358",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh and Trahaearn led to the gallows",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"The Dungeon",
+	 					"to":"Gallows",
+	 					"witness_loc":"New Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "247",
+	 "desc": "William Cragh is hanged",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"247",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"356",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"William Cragh is hanged by his family",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Dafydd Asser"} , { "desc":"Gruffudd Foel"} , { "desc":"Uthel Fachen"} , { "desc":"Yry son of Veil"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"241",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"230",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh is hanged by his family",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Dafydd Asser"} , { "desc":"Gruffudd Foel"} , { "desc":"Uthel Fachen"} , { "desc":"Yry son of Veil"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"28",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"83",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh is hanged by his family",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Dafydd Asser"} , { "desc":"Gruffudd Foel"} , { "desc":"Uthel Fachen"} , { "desc":"Yry son of Veil"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"123",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"196",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is hanged by Uthel Fachen",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Uthel Fachen"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"198",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"78",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "248",
+	 "desc": "The ladder is taken away from William Cragh",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "249",
+	 "desc": "Trahaearn is hanged",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"249",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"345",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"243",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"232",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Mary de Briouze",
+	 					"id":"30",						
+	 					"slug":"mary-de-briouze",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"54",						
+	 					"slug":"william-cragh",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"77",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"Trahaearn is hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "250",
+	 "desc": "The beam of the gallows breaks",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"250",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[ { "desc":"gallows"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"346",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"244",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"237",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"107",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"gallows"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"51",						
+	 					"slug":"william-cragh",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					}, 
+	 					{
+	 					"name":"William de Briouze Jnr",
+	 					"id":"156",						
+	 					"slug":"william-de-briouze-jnr",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"break"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"72",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"The beam of the gallows breaks",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"beam"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"breaking"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "251",
+	 "desc": "William Cragh and Trahaearn fall to the ground",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "252",
+	 "desc": "William Cragh and Trahaearn are re-hanged",
+	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"252",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Town Walls",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"348",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"245",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"hanging"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Market Place",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"John of Baggeham",
+	 					"id":"296",						
+	 					"slug":"john-of-baggeham",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"Thomas Marshall",
+	 					"id":"108",						
+	 					"slug":"thomas-marshall",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"West Gate",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"53",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh and Trahaearn are re-hanged",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"Trahaearn ap Hywel"},{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Gallows",
+	 					"event_loc":"Gallows",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"punishment"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "215",
+	 "desc": "William Cragh is carried to Thomas Mathews the burgess's house",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"215",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh is carried to Thomas Mathews the burgess's house",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas Mathews' House"} ],
+	 					"from":"Gallows",
+	 					"to":"Thomas Mathews' house",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"217",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh is taken to Thomas Mathews' house",
+	 					"pathway":"witnessed",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas Mathews' House"} ],
+	 					"from":"St John's Chapel",
+	 					"to":"Thomas Mathews' house",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"63",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is taken to Thomas Mathews' house",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas Mathews' House"} ],
+	 					"from":"St John's Chapel",
+	 					"to":"Thomas Mathews' house",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"travel"}],
+	 					"event_subtype":"journey"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "216",
+	 "desc": "Adam of Loughor goes to Thomas Mathews the burgess's house",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "178",
+	 "desc": "William Cragh lies on the ground",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "179",
+	 "desc": "William Cragh's eyes are popped out of their sockets",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "180",
+	 "desc": "William Cragh's tongue is hanging out",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "181",
+	 "desc": "William Cragh's teeth are clamped shut",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "277",
+	 "desc": "William Cragh is not breathing",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	},
+
+	{"order": "57",
+	 "desc": "William Cragh is measured to St Thomas",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": [
+	 					{
+	 					"name":"Adam of Loughor",
+	 					"id":"57",						
+	 					"slug":"adam-of-loughor",							
+	 					"desc":"William Cragh is measured to St Thomas",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas de Cantilupe"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"Henry Skinner",
+	 					"id":"20",						
+	 					"slug":"henry-skinner",							
+	 					"desc":"William Cragh is measured to St Thomas",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas de Cantilupe"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"John ap Hywel",
+	 					"id":"34",						
+	 					"slug":"john-ap-hywel",							
+	 					"desc":"William Cragh is measured to St Thomas",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas de Cantilupe"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"William Cragh",
+	 					"id":"44",						
+	 					"slug":"william-cragh",							
+	 					"desc":"William Cragh is measured to St Thomas",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Thomas Mathews' house",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotion"
+	 					}, 
+	 					{
+	 					"name":"William of Codineston",
+	 					"id":"69",						
+	 					"slug":"william-of-codineston",							
+	 					"desc":"William Cragh is measured to St Thomas",
+	 					"pathway":"heard",
+	 					"subjects":[{"desc":"William Cragh"}],
+	 					"objects":[ { "desc":"Thomas de Cantilupe"} ],
+	 					"from":"",
+	 					"to":"",
+	 					"witness_loc":"Old Castle",
+	 					"event_loc":"Thomas Mathews' house",
+	 					"event_types": [{"desc":"action"}],
+	 					"event_subtype":"devotiom"
+	 					} 
+	 					
+	 			   ]
+	},
+
+	{"order": "219",
+	 "desc": "William Cragh recovers",
+	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	"witnesses": []
+	}
+] });
+
+function getWitnesses(eventObject){
+	var str = "" // <div>";
+	for (w in eventObject.witnesses){
+		// Close last div only if a new witness and not the first iteration
+		if ( currWitness!=eventObject.witnesses[w].name && w!=0 ) { str = str + '</div>' }
+
+		if ( currWitness!=eventObject.witnesses[w].name ){
+		str = str + "<div class='witness-section'><span class='timeline-witness-header'>As "+eventObject.witnesses[w].pathway + ' by </span><span class="timeline-witness"><a href="/witness-timeline/' + eventObject.witnesses[w].slug +'/witness.html#event-'+ eventObject.witnesses[w].id +'">' 
+		+ eventObject.witnesses[w].name + "</a></span></b>"
+				  + "<br />" + eventObject.witnesses[w].desc
+		}
+		else{
+			str = str + "<br />" + eventObject.witnesses[w].desc
+		}
+
+		var currWitness = eventObject.witnesses[w].name;
+
+		// Close last div only if end of loop
+		if ( w==(eventObject.witnesses.length-1) ) { str = str + '</div>' }		
+	};
+
+	//str += "</div>";
+	return str;
+};
+
+function getImageUrl(eventObject){
+	var str = "";
+	if (eventObject.location != 'Not specified'){
+		str = eventObject.location
+	}
+	else {
+		str = '<p>Nothing yet!<p>'
+	}
+	return str;
+}
+
+
+function Arrow_Points()
+{ 
+var s = $('#timeline-container').find('.timeline-item');
+$.each(s,function(i,obj){
+	var o = $(obj).offset()['left']
+	// Check if it is the first iteration and store the left offset...
+			if (i==0){
+				minLeft=$(obj).offset()['left'];
+			};
+		if ( $(obj).offset()['left'] > minLeft  )
+			{
+			html = "<div class='tail-left'></div>";
+			$(obj).prepend(html);
+		
+			}
+		else
+		{
+			html = "<div class='tail-right'></div>";
+			$(obj).prepend(html);
+	
+		}
+	});
+}
+
+
+function AssignMargins(){ 
+var s = $('#timeline-container').find('.timeline-item');
+$.each(s,function(i,obj){
+	var o = $(obj).offset()['left']
+	// Check if it is the first iteration and store the left offset...
+			if (i==0){
+				minLeft=$(obj).offset()['left'];
+			};
+		if ( $(obj).offset()['left'] > (minLeft+100) ) /* || $(obj).offset()['left'] < 
+				$( $('#timeline-container').find('.timeline-item')[1] ).offset()['left'] ) */
+			{
+			  $(obj).addClass('item-right')
+				if ( $(obj).hasClass('item-left')){
+					$(obj).removeClass('item-left')
+				}
+			}
+		else
+		{
+			  $(obj).addClass('item-left')	
+				if ( $(obj).hasClass('item-right') ){
+					$(obj).removeClass('item-right')
+				}			  
+		}
+	});
+}
+ 
+
+
+
+
+
+$(document).ready(function(){
+	// Create a div for each event
+	for (e in timeline.events){
+		$('#timeline-container').append("<div id='timeline-item-"+ e +"' class='timeline-item large-6 columns'>"+ e + "</div>");
+	};
+
+
+	
+	for (e in timeline.events){
+		$($('.timeline-item')[e]).html(
+		"<div class='timeline-content' id='event-"+ timeline.events[e].order +"'>" +
+		"<h4 class='timeline-header'>"+ timeline.events[e].desc +"</h4>"+
+		"<div class='timeline-left'>" + getImageUrl( timeline.events[e] ) +"</div>"+
+		"<div class='timeline-right'>"+ 
+					getWitnesses( timeline.events[e] )
+		+ "</div>" +
+		"</div>"
+		);
+	}
+
+   	$('#timeline-item-0').after("<div class='timeline-item fake' style='height:1px;'> </div>")
+	
+    $($('.timeline-item')[0]).before(
+	'<div class="timeline_container">'+
+		'<div class="timeline">'+
+			'<div class="plus"></div>'+
+		'</div>' +
+	'</div>'
+	);
+	
+	
+	window.setTimeout(masonryLayout, 1000);
+
+});
+
+function masonryLayout(){
+	$('#timeline-container').masonry({itemSelector : '.timeline-item',transitionDuration: 0});
+	
+	AssignMargins();
+	
+	$('#timeline-container').masonry({itemSelector : '.timeline-item',transitionDuration: 0});
+	
+	AssignMargins();
+	
+	Arrow_Points()
+	$('.fake').remove();
+	var fakeHash = 	window.location.hash;
+	window.location.hash = ''
+	window.location.hash = fakeHash;
+};
