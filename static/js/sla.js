@@ -39,14 +39,7 @@ function addSLA() {
   div.setAttribute('role', 'banner')
 
   let p = document.createElement('p')
-  p.innerHTML = 'This site is '
-
-  let a = document.createElement('a')
-  a.href = kdlUrl + 'how-we-work/kdl-designed-developed-and-maintained/'
-  a.innerHTML = 'maintained'
-
-  p.appendChild(a)
-  p.appendChild(document.createTextNode(' under a Service Level Agreement by '))
+  p.innerHTML = 'This site is a static clone of the original version, hosted by  '
 
   a = document.createElement('a')
   a.href = kdlUrl
