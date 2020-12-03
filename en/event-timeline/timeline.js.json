@@ -1,7 +1,7 @@
 var timeline = ({"events": [
 	{"order": "1",
 	 "desc": "Attack on Oystermouth Castle",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/aocc.png"/>',
 	 "witnesses": [{
 	 					"name":"John of Baggeham",
 	 					"id":"73",						
@@ -37,7 +37,7 @@ var timeline = ({"events": [
 
 	{"order": "2",
 	 "desc": "William Cragh is captured",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/wcic.pngwcis"/>',
 	 "witnesses": [{
 	 					"name":"John of Baggeham",
 	 					"id":"74",						
@@ -118,7 +118,7 @@ var timeline = ({"events": [
 
 	{"order": "3",
 	 "desc": "William Cragh is sentenced",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/wcis.png"/>',
 	 "witnesses": [{
 	 					"name":"John of Baggeham",
 	 					"id":"75",						
@@ -169,7 +169,7 @@ var timeline = ({"events": [
 
 	{"order": "4",
 	 "desc": "William Cragh is incarcerated",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/wcii.png"/>',
 	 "witnesses": [{
 	 					"name":"John ap Hywel",
 	 					"id":"36",						
@@ -220,7 +220,7 @@ var timeline = ({"events": [
 
 	{"order": "5",
 	 "desc": "William Cragh is led to the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/wcilttg.png"/>',
 	 "witnesses": [{
 	 					"name":"Adam of Loughor",
 	 					"id":"253",						
@@ -316,7 +316,7 @@ var timeline = ({"events": [
 
 	{"order": "7",
 	 "desc": "Trahaearn is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/tih.png"/>',
 	 "witnesses": [{
 	 					"name":"Adam of Loughor",
 	 					"id":"249",						
@@ -427,7 +427,7 @@ var timeline = ({"events": [
 
 	{"order": "8",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/tbotgb.png"/>',
 	 "witnesses": [{
 	 					"name":"Adam of Loughor",
 	 					"id":"250",						
@@ -553,7 +553,7 @@ var timeline = ({"events": [
 
 	{"order": "9",
 	 "desc": "William Cragh and Trahaearn ap Hywel are re-hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/rehanged.png"/>',
 	 "witnesses": [{
 	 					"name":"Adam of Loughor",
 	 					"id":"252",						
@@ -649,7 +649,7 @@ var timeline = ({"events": [
 
 	{"order": "10",
 	 "desc": "William Cragh is taken to Thomas Mathews' house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/tommathouse.png"/>',
 	 "witnesses": [{
 	 					"name":"Adam of Loughor",
 	 					"id":"215",						
@@ -700,7 +700,7 @@ var timeline = ({"events": [
 
 	{"order": "11",
 	 "desc": "William Cragh is measured to St Thomas de Cantilupe",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/measured.png"/>',
 	 "witnesses": [{
 	 					"name":"Adam of Loughor",
 	 					"id":"57",						
@@ -781,7 +781,7 @@ var timeline = ({"events": [
 
 	{"order": "12",
 	 "desc": "William Cragh revives",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/revives.png"/>',
 	 "witnesses": [{
 	 					"name":"John of Baggeham",
 	 					"id":"286",						
@@ -952,7 +952,7 @@ var timeline = ({"events": [
 
 	{"order": "13",
 	 "desc": "William Cragh is cared for in Thomas Mathews' house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/caredfor.png"/>',
 	 "witnesses": [{
 	 					"name":"John of Baggeham",
 	 					"id":"295",						
@@ -1033,7 +1033,7 @@ var timeline = ({"events": [
 
 	{"order": "14",
 	 "desc": "William Cragh and the de Briouzes go on pilgrimage to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/pilgr.png"/>',
 	 "witnesses": [{
 	 					"name":"John ap Hywel",
 	 					"id":"43",						
