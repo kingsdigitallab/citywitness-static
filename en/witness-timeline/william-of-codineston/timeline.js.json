@@ -1,7 +1,7 @@
 var timeline = ({"events": [
 	{"order": "81",
 	 "desc": "William Cragh and Trahaearn are captured",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/codineston/1.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -84,7 +84,7 @@ var timeline = ({"events": [
 
 	{"order": "358",
 	 "desc": "William Cragh and Trahaearn led to the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -182,31 +182,31 @@ var timeline = ({"events": [
 
 	{"order": "360",
 	 "desc": "William Cragh wants to confess his sins",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "359",
 	 "desc": "William Cragh and William of Codineston are unable to communicate",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "361",
 	 "desc": "William Cragh confesses to Madog",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "79",
 	 "desc": "William Cragh asks for St Thomas to intervene",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "78",
 	 "desc": "William Cragh is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -364,19 +364,19 @@ var timeline = ({"events": [
 
 	{"order": "80",
 	 "desc": "William Cragh is supported by a bishop on the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "7",
 	 "desc": "William Cragh says he does not know who the bishop is who supports his feet on the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "77",
 	 "desc": "Trahaearn is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -489,7 +489,7 @@ var timeline = ({"events": [
 
 	{"order": "72",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -617,25 +617,25 @@ var timeline = ({"events": [
 
 	{"order": "59",
 	 "desc": "William Cragh and Trahaearn fall to the ground",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "16",
 	 "desc": "Gallows re-erected",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/codineston/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "66",
 	 "desc": "William Cragh and Trahaearn are carried to St John's Chapel",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438857.521678,6732728.53479,-438704.647621,6732922.01602&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/codineston/5.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "69",
 	 "desc": "William Cragh is measured to St Thomas",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="//static/assets/images/codineston/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -718,19 +718,19 @@ var timeline = ({"events": [
 
 	{"order": "68",
 	 "desc": "William Cragh moves his tongue",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="//static/assets/images/codineston/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "67",
 	 "desc": "William Cragh moves his limbs",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="//static/assets/images/codineston/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "5",
 	 "desc": "William Cragh only able to consume broth",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="//static/assets/images/codineston/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -896,25 +896,25 @@ var timeline = ({"events": [
 
 	{"order": "275",
 	 "desc": "William Cragh visits Swansea Castle ",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/codineston/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "357",
 	 "desc": "William Cragh visits Swansea Castle ",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/codineston/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "362",
 	 "desc": "William Cragh tells the de Briouzes and William of Codineston his story",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/codineston/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "65",
 	 "desc": "William Cragh, Mary de Briouze and William de Briouze Snr go on pilgrimage to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/codineston/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -1057,19 +1057,19 @@ var timeline = ({"events": [
 
 	{"order": "17",
 	 "desc": "William Cragh offers a wax model of a man on a gallows at St Thomas' tomb",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/codineston/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "6",
 	 "desc": "William Cragh vows to go on a pilgrimage to the Holy Land",
-	 "location":'<img style="width:300px;height:267;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=3165104.46679,3155320.52717,4847942.08128,4657155.25871&HEIGHT=267&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:267;" src="/static/assets/images/codineston/8.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "82",
 	 "desc": "William Cragh remains living in Swansea",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439549.635082,6730728.6316,-437600.490861,6733203.28039&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/codineston/3.png"/>',
 	"witnesses": []
 	}
 ] });

@@ -1,7 +1,7 @@
 var timeline = ({"events": [
 	{"order": "73",
 	 "desc": "William Cragh attacks Oystermouth Castle",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/johnofbaggeham/1.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -39,7 +39,7 @@ var timeline = ({"events": [
 
 	{"order": "74",
 	 "desc": "William Cragh is captured",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/johnofbaggeham/1.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -122,7 +122,7 @@ var timeline = ({"events": [
 
 	{"order": "76",
 	 "desc": "William Cragh is incarcerated",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/johnofbaggeham/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -175,7 +175,7 @@ var timeline = ({"events": [
 
 	{"order": "75",
 	 "desc": "William Cragh is sentenced to hanging",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -228,13 +228,13 @@ var timeline = ({"events": [
 
 	{"order": "220",
 	 "desc": "William de Briouze Snr assembles his horsemen",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "204",
 	 "desc": "William Cragh is led to the gallows by horsemen",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -332,7 +332,7 @@ var timeline = ({"events": [
 
 	{"order": "230",
 	 "desc": "William Cragh is hanged by his family",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -490,19 +490,19 @@ var timeline = ({"events": [
 
 	{"order": "231",
 	 "desc": "William Cragh vacuates his bowels",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "301",
 	 "desc": "Trahaearn's ransom is turned down",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "232",
 	 "desc": "Trahaearn is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -615,13 +615,13 @@ var timeline = ({"events": [
 
 	{"order": "233",
 	 "desc": "The ladder is taken away from Trahaearn",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "237",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -749,13 +749,13 @@ var timeline = ({"events": [
 
 	{"order": "298",
 	 "desc": "William Cragh's body falls to the ground",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "296",
 	 "desc": "William Cragh and Trahaearn are re-hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -853,133 +853,133 @@ var timeline = ({"events": [
 
 	{"order": "202",
 	 "desc": "John of Baggeham goes to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "221",
 	 "desc": "John of Baggeham informs William de Briouze Jnr and William de Briouze Snr, and Mary de Briouze of William Cragh and Trahaearn's death",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "222",
 	 "desc": "Mary de Briouze begs for William Cragh's body",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "223",
 	 "desc": "William de Briouze Snr concedes to Mary de Briouze's request to release William Cragh's body",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "224",
 	 "desc": "Mary de Briouze asks John of Baggeham to take William Cragh off the gallows",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "297",
 	 "desc": "John of Baggeham cuts the rope used to hang William Cragh",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "300",
 	 "desc": "John of Baggeham orders the body of William Cragh to be taken to the town of Swansea",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnofbaggeham/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "203",
 	 "desc": "John of Baggeham returns to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "225",
 	 "desc": "William de Briouze Snr is eating lunch",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "226",
 	 "desc": "Mary de Briouze takes string from her daughter's purse",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "227",
 	 "desc": "Mary de Briouze sends John of Baggeham with string to measure William Cragh",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "234",
 	 "desc": "John of Baggeham goes to Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "182",
 	 "desc": "William Cragh lies on the ground",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "278",
 	 "desc": "William Cragh's eyes are popped out of their sockets",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "279",
 	 "desc": "William Cragh's tongue is hanging out",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "280",
 	 "desc": "William Cragh's teeth are clamped shut",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "281",
 	 "desc": "William Cragh is not breathing",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "282",
 	 "desc": "John of Baggeham touches William Cragh's body",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "283",
 	 "desc": "John of Baggeham measures William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "284",
 	 "desc": "The people in the house of Thomas Mathews the burgess pray to St Thomas",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "285",
 	 "desc": "The people in the house of Thomas Mathews the burgess say the Pater Noster and Ave Maria",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "286",
 	 "desc": "William Cragh moves a foot",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1152,7 +1152,7 @@ var timeline = ({"events": [
 
 	{"order": "287",
 	 "desc": "William Cragh breathes in a little",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1325,43 +1325,43 @@ var timeline = ({"events": [
 
 	{"order": "205",
 	 "desc": "John of Baggeham returns to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "228",
 	 "desc": "Mary de Briouze rejoices at William Cragh's revival",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "229",
 	 "desc": "John of Baggeham chastises Mary de Briouze",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "235",
 	 "desc": "John of Baggeham and Mary de Briouze and their household go to Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "288",
 	 "desc": "Mary de Briouze measures William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "289",
 	 "desc": "Margaret de Briouze measures William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "290",
 	 "desc": "William Cragh's eyes withdraw into their sockets",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1534,7 +1534,7 @@ var timeline = ({"events": [
 
 	{"order": "291",
 	 "desc": "William Cragh closes his eyes",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1707,7 +1707,7 @@ var timeline = ({"events": [
 
 	{"order": "292",
 	 "desc": "William Cragh opens his eyes",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1880,25 +1880,25 @@ var timeline = ({"events": [
 
 	{"order": "293",
 	 "desc": "William Cragh is not able to recognise people",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "294",
 	 "desc": "William Cragh's condition is improved",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "299",
 	 "desc": "John of Baggeham and Mary de Briouze and their household go to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "295",
 	 "desc": "Mary de Briouze prepares almond broth",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1981,19 +1981,19 @@ var timeline = ({"events": [
 
 	{"order": "236",
 	 "desc": "Mary de Briouze and her household go to see William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnofbaggeham/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "325",
 	 "desc": "John of Baggeham returns to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/johnofbaggeham/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "15",
 	 "desc": "Mary de Briouze, William de Briouze Snr and William Cragh go to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/johnofbaggeham/5.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",

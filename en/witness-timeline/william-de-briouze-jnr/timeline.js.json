@@ -1,7 +1,7 @@
 var timeline = ({"events": [
 	{"order": "64",
 	 "desc": "William Cragh is captured",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/briouze-jnr/1.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -84,13 +84,13 @@ var timeline = ({"events": [
 
 	{"order": "70",
 	 "desc": "Trahaearn is captured",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/briouze-jnr/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "130",
 	 "desc": "William Cragh is sentenced to hanging",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -143,13 +143,13 @@ var timeline = ({"events": [
 
 	{"order": "4",
 	 "desc": "William de Briouze Jnr turns down a ransom for William Cragh ",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "198",
 	 "desc": "William Cragh is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/briouze-jnr/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -307,7 +307,7 @@ var timeline = ({"events": [
 
 	{"order": "156",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/briouze-jnr/2.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -435,133 +435,133 @@ var timeline = ({"events": [
 
 	{"order": "155",
 	 "desc": "Rumours reach William de Briouze Jnr and William de Briouze Snr of William Cragh's hanging",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "197",
 	 "desc": "William de Briouze Snr orders a second hanging",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "41",
 	 "desc": "William Cragh is dead",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/briouze-jnr/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "55",
 	 "desc": "William Cragh and Trahaearn are dead",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/briouze-jnr/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "374",
 	 "desc": "William Cragh's family ask for his body",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/briouze-jnr/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "29",
 	 "desc": "Trahaearn is buried",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/briouze-jnr/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "183",
 	 "desc": "William de Briouze Jnr and household go to Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "153",
 	 "desc": "William de Briouze Jnr and others see William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "186",
 	 "desc": "William Cragh is dead",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "185",
 	 "desc": "William de Briouze Jnr and his household look at the body of William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "187",
 	 "desc": "William Cragh's eyes are popped out of their sockets",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "189",
 	 "desc": "William Cragh is not able to see",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "151",
 	 "desc": "William Cragh has a swollen neck and a mouth full of blood",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "152",
 	 "desc": "William Cragh not able to breathe",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "127",
 	 "desc": "William de Briouze Jnr returns to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "199",
 	 "desc": "William de Briouze Jnr reports William Cragh's status to stepmother",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "200",
 	 "desc": "Mary de Briouze Snr laments William Cragh's suffering",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "126",
 	 "desc": "Jovanta is sent to measure William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "39",
 	 "desc": "Jovanta measures William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "25",
 	 "desc": "Jovanta folds a penny to St Thomas",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "201",
 	 "desc": "Jovanta reports back to the castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/briouze-jnr/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "56",
 	 "desc": "William Cragh begins to breathe",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -734,7 +734,7 @@ var timeline = ({"events": [
 
 	{"order": "31",
 	 "desc": "William Cragh moves a leg",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -907,7 +907,7 @@ var timeline = ({"events": [
 
 	{"order": "27",
 	 "desc": "William Cragh is restored to life",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1080,13 +1080,13 @@ var timeline = ({"events": [
 
 	{"order": "184",
 	 "desc": "William de Briouze Jnr and others return to Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "154",
 	 "desc": "William Cragh's tongue is smaller but sticking out",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1259,19 +1259,19 @@ var timeline = ({"events": [
 
 	{"order": "58",
 	 "desc": "William Cragh says a white bishop put his tongue back in for him",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "188",
 	 "desc": "William Cragh is not able to speak",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/briouze-jnr/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "23",
 	 "desc": "William Cragh, Mary de Briouze, and William de Briouze Snr go on pilgrimage to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/briouze-jnr/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -1414,13 +1414,13 @@ var timeline = ({"events": [
 
 	{"order": "26",
 	 "desc": "The string with which William Cragh was measured is covered in wax",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439549.635082,6730728.6316,-437600.490861,6733203.28039&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/briouze-jnr/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "22",
 	 "desc": "William Cragh carries the string to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/briouze-jnr/6.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -1563,19 +1563,19 @@ var timeline = ({"events": [
 
 	{"order": "18",
 	 "desc": "William Cragh leaves a noose and wax model at St Thomas' tomb",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/briouze-jnr/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "19",
 	 "desc": "William Cragh vows to go on a pilgrimage to the Holy Land",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/briouze-jnr/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "24",
 	 "desc": "William Cragh dies of natural causes",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439549.635082,6730728.6316,-437600.490861,6733203.28039&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/briouze-jnr/3.png"/>',
 	"witnesses": []
 	}
 ] });

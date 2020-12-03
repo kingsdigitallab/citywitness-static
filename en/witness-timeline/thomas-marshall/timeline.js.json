@@ -1,19 +1,19 @@
 var timeline = ({"events": [
 	{"order": "84",
 	 "desc": "William Cragh has a vision",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/marshall/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "124",
 	 "desc": "William Cragh and Trahaearn are dragged from prison",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/marshall/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "125",
 	 "desc": "William Cragh and Trahaearn led to the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/marshall/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -111,7 +111,7 @@ var timeline = ({"events": [
 
 	{"order": "123",
 	 "desc": "William Cragh is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/marshall/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -269,7 +269,7 @@ var timeline = ({"events": [
 
 	{"order": "83",
 	 "desc": "William Cragh is hanged by his family",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/marshall/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -427,7 +427,7 @@ var timeline = ({"events": [
 
 	{"order": "107",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/marshall/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -555,7 +555,7 @@ var timeline = ({"events": [
 
 	{"order": "108",
 	 "desc": "William Cragh and Trahaearn are re-hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/marshall/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -653,67 +653,67 @@ var timeline = ({"events": [
 
 	{"order": "105",
 	 "desc": "William Cragh is dead",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "207",
 	 "desc": "Thomas Marshall moves from the West Gate",
-	 "location":'<img style="width:300px;height:294;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439052.794398,6731900.86509,-438887.977056,6732062.69661&HEIGHT=294&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:294;" src="/static/assets/images/marshall/5.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "209",
 	 "desc": "Thomas Marshall goes to the Chapel of St John",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438857.521678,6732728.53479,-438704.647621,6732922.01602&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/marshall/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "106",
 	 "desc": "Thomas Marshall sees people at Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "92",
 	 "desc": "Thomas Marshall enters Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "93",
 	 "desc": "William Cragh is lying on the floor of Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "103",
 	 "desc": "William Cragh's eyes are popped out of their sockets",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "104",
 	 "desc": "William Cragh's teeth are clamped shut",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "86",
 	 "desc": "Matilda de la Chapel feeds William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "206",
 	 "desc": "Thomas Marshall withdraws from Thomas Mathews the burgess's house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/marshall/4.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "208",
 	 "desc": "William Cragh goes to Swansea Castle",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/marshall/2.png"/>',
 	"witnesses": []
 	}
 ] });

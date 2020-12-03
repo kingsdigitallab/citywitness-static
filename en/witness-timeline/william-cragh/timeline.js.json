@@ -1,7 +1,7 @@
 var timeline = ({"events": [
 	{"order": "256",
 	 "desc": "William Cragh kills 13 men",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/cragh/5.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -39,7 +39,7 @@ var timeline = ({"events": [
 
 	{"order": "276",
 	 "desc": "William Cragh is captured",
-	 "location":'<img style="width:300px;height:218;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-458372.253295,6717199.2776,-430319.863918,6737607.96415&HEIGHT=218&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:218;" src="/static/assets/images/cragh/5.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -122,7 +122,7 @@ var timeline = ({"events": [
 
 	{"order": "258",
 	 "desc": "William Cragh is incarcerated",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/cragh/1.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -175,37 +175,37 @@ var timeline = ({"events": [
 
 	{"order": "262",
 	 "desc": "William Cragh bends a penny to St Thomas",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/cragh/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "257",
 	 "desc": "William Cragh hides a penny in his trouser belt",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/cragh/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "259",
 	 "desc": "William Cragh has a vision",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/cragh/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "260",
 	 "desc": "The Virgin Mary tells the prisoners to escape",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/cragh/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "261",
 	 "desc": "The Virgin Mary tells William Cragh to abandon Trahaearn",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/cragh/1.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "212",
 	 "desc": "William Cragh is led to the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -303,7 +303,7 @@ var timeline = ({"events": [
 
 	{"order": "214",
 	 "desc": "William Cragh is led to the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -401,13 +401,13 @@ var timeline = ({"events": [
 
 	{"order": "211",
 	 "desc": "William Cragh confesses to Madog",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "196",
 	 "desc": "William Cragh is hanged by Uthel Fachen",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -565,13 +565,13 @@ var timeline = ({"events": [
 
 	{"order": "45",
 	 "desc": "William Cragh dies",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439549.635082,6730728.6316,-437600.490861,6733203.28039&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/cragh/8.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "54",
 	 "desc": "Trahaearn is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -684,7 +684,7 @@ var timeline = ({"events": [
 
 	{"order": "51",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -812,13 +812,13 @@ var timeline = ({"events": [
 
 	{"order": "52",
 	 "desc": "William Cragh and Trahaearn fall to the ground",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "53",
 	 "desc": "William Cragh and Trahaearn are re-hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -916,31 +916,31 @@ var timeline = ({"events": [
 
 	{"order": "48",
 	 "desc": "Mary de Briouze begs for William Cragh's body",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/cragh/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "49",
 	 "desc": "William de Briouze Snr concedes to Mary de Briouze's request to release William Cragh's body",
-	 "location":'<img style="width:300px;height:296;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438810.345699,6731681.7058,-438650.902836,6731839.35717&HEIGHT=296&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:296;" src="/static/assets/images/cragh/2.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "47",
 	 "desc": "William Cragh is taken down from the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/cragh/3.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "9",
 	 "desc": "William Cragh taken to the Chapel of St John",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438857.521678,6732728.53479,-438704.647621,6732922.01602&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/cragh/6.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "63",
 	 "desc": "William Cragh is taken to Thomas Mathews' house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/cragh/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -993,7 +993,7 @@ var timeline = ({"events": [
 
 	{"order": "44",
 	 "desc": "William Cragh is measured to St Thomas",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/cragh/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -1076,7 +1076,7 @@ var timeline = ({"events": [
 
 	{"order": "62",
 	 "desc": "Signs of life appear in William Cragh",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/cragh/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1249,7 +1249,7 @@ var timeline = ({"events": [
 
 	{"order": "213",
 	 "desc": "William Cragh is weak for a week",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/cragh/4.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John of Baggeham",
@@ -1332,13 +1332,13 @@ var timeline = ({"events": [
 
 	{"order": "210",
 	 "desc": "William Cragh tells everyone about his visions",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439549.635082,6730728.6316,-437600.490861,6733203.28039&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/cragh/8.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "263",
 	 "desc": "William Cragh, Mary de Briouze and William de Briouze Snr go on pilgrimage to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/cragh/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -1481,13 +1481,13 @@ var timeline = ({"events": [
 
 	{"order": "255",
 	 "desc": "William Cragh offers a wax image and rope noose at St Thomas' tomb",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/cragh/7.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "254",
 	 "desc": "The miracle is proclaimed in Hereford ",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/cragh/7.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
