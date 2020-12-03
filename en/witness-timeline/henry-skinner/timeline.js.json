@@ -1,13 +1,13 @@
 var timeline = ({"events": [
 	{"order": "21",
 	 "desc": "William Cragh has a vision",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/henryskinner/21.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "356",
 	 "desc": "William Cragh is hanged by his family",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/356.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -165,19 +165,19 @@ var timeline = ({"events": [
 
 	{"order": "343",
 	 "desc": "William Cragh vacuates his bowels",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/343.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "344",
 	 "desc": "William Cragh dies on the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/344.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "345",
 	 "desc": "Trahaearn is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/345.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -290,7 +290,7 @@ var timeline = ({"events": [
 
 	{"order": "346",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/346.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -418,13 +418,13 @@ var timeline = ({"events": [
 
 	{"order": "347",
 	 "desc": "William Cragh falls to the ground dead",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/347.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "348",
 	 "desc": "William Cragh and Trahaearn are re-hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/348.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -522,13 +522,13 @@ var timeline = ({"events": [
 
 	{"order": "355",
 	 "desc": "Henry Skinner withdraws from the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/355.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "20",
 	 "desc": "William Cragh is measured to St Thomas",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/henryskinner/20.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -611,7 +611,7 @@ var timeline = ({"events": [
 
 	{"order": "85",
 	 "desc": "The ladder is taken away from William Cragh",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/henryskinner/85.png"/>',
 	"witnesses": []
 	}
 ] });

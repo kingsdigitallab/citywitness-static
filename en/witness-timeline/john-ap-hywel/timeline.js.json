@@ -1,7 +1,7 @@
 var timeline = ({"events": [
 	{"order": "36",
 	 "desc": "William Cragh is incarcerated",
-	 "location":'<img style="width:300px;height:371;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438784.667635,6731743.21372,-438683.149707,6731868.61822&HEIGHT=371&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:371;" src="/static/assets/images/johnaphywel/36.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
@@ -54,7 +54,7 @@ var timeline = ({"events": [
 
 	{"order": "241",
 	 "desc": "William Cragh is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnaphywel/241.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -212,13 +212,13 @@ var timeline = ({"events": [
 
 	{"order": "242",
 	 "desc": "The ladder is taken away from William Cragh",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnaphywel/242.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "243",
 	 "desc": "Trahaearn is hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnaphywel/243.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -331,7 +331,7 @@ var timeline = ({"events": [
 
 	{"order": "244",
 	 "desc": "The beam of the gallows breaks",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnaphywel/244.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -459,7 +459,7 @@ var timeline = ({"events": [
 
 	{"order": "245",
 	 "desc": "William Cragh and Trahaearn are re-hanged",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnaphywel/245.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -557,19 +557,19 @@ var timeline = ({"events": [
 
 	{"order": "246",
 	 "desc": "William Cragh is taken down from the gallows",
-	 "location":'<img style="width:300px;height:277;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439604.574196,6732307.53397,-439117.288141,6732758.99017&HEIGHT=277&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:277;" src="/static/assets/images/johnaphywel/246.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "218",
 	 "desc": "William Cragh is taken to the Church",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438857.521678,6732728.53479,-438704.647621,6732922.01602&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/johnaphywel/218.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "217",
 	 "desc": "William Cragh is taken to Thomas Mathews' house",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnaphywel/217.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -622,19 +622,19 @@ var timeline = ({"events": [
 
 	{"order": "239",
 	 "desc": "William Cragh lies on the ground",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnaphywel/239.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "238",
 	 "desc": "Great celebration at the death of William Cragh",
-	 "location":'<img style="width:300px;height:380;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-439549.635082,6730728.6316,-437600.490861,6733203.28039&HEIGHT=380&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:380;" src="/static/assets/images/johnaphywel/238.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "34",
 	 "desc": "William Cragh is measured to St Thomas",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnaphywel/34.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"Adam of Loughor",
@@ -717,19 +717,19 @@ var timeline = ({"events": [
 
 	{"order": "11",
 	 "desc": "William Cragh recovers",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnaphywel/11.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "240",
 	 "desc": "William Cragh looks up at John ap Hywel",
-	 "location":'<img style="width:300px;height:314;" src="/geoserver/wms?LAYERS=TMS_Style_CW&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-438880.811085,6732780.48808,-438625.224772,6733048.01768&HEIGHT=314&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:314;" src="/static/assets/images/johnaphywel/240.png"/>',
 	"witnesses": []
 	},
 
 	{"order": "43",
 	 "desc": "William Cragh is taken to Hereford",
-	 "location":'<img style="width:300px;height:225;" src="/geoserver/wms?LAYERS=Project_data:dcow_backdrop&STYLES=&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX=-450061.22248,6687322.72968,-155320.041454,6908684.36357&HEIGHT=225&WIDTH=300"/>',
+	 "location":'<img style="width:300px;height:225;" src="/static/assets/images/johnaphywel/43.png"/>',
 	"witnesses": [
 	 					{
 	 					"name":"John ap Hywel",
