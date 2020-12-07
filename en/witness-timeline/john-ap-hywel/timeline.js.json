@@ -878,7 +878,7 @@ function getWitnesses(eventObject){
 		if ( currWitness!=eventObject.witnesses[w].name && w!=0 ) { str = str + '</div>' }
 
 		if ( currWitness!=eventObject.witnesses[w].name ){
-		str = str + "<div class='witness-section'><span class='timeline-witness-header'>As "+eventObject.witnesses[w].pathway + ' by </span><span class="timeline-witness"><a href="../../witness-timeline/' + eventObject.witnesses[w].slug +'/witness.html#event-'+ eventObject.witnesses[w].id +'">' 
+		str = str + "<div class='witness-section'><span class='timeline-witness-header'>As "+eventObject.witnesses[w].pathway + ' by </span><span class="timeline-witness"><a href="/en/witness-timeline/' + eventObject.witnesses[w].slug +'/witness.html#event-'+ eventObject.witnesses[w].id +'">' 
 		+ eventObject.witnesses[w].name + "</a></span></b>"
 				  + "<br />" + eventObject.witnesses[w].desc
 		}
